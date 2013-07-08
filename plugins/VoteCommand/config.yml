@@ -1,0 +1,11 @@
+# Color codes can be used - http://ess.khhq.net/mc/
+#
+# I highly recommend using bit.ly for the links because some links can't fit on a whole line.
+  
+top: '-------------=[ Vote Links ]=-------------'
+
+Links:
+  - 'Example'
+  - ''
+
+bottom: '---------------------------------------'

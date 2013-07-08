@@ -1,0 +1,108 @@
+chat-format:
+  enable-chat-format: true
+  display-chat-format: '&f[&2%World%&f][%Prefix%]%Player%[%Suffix%]: '
+swear:
+  kick-player: true
+  warn-player: false
+  replace-word-player: false
+  replace-word-with-word-player: false
+  word-replacer: <censored>
+  fine-player: false
+  fine-cost: 10
+  kick-message: You have been kicked for swearing!
+  warn-message: '&cDo not swear. You have been warned.'
+  blacklist:
+  - fuck
+  - bitch
+  - ass
+  - shit
+  whitelist:
+  - grass
+caps:
+  kick-player: true
+  warn-player: false
+  reduce-message-player: false
+  fine-player: false
+  fine-cost: 10
+  kick-message: You have been kicked for using caps!
+  warn-message: '%cDo not use caps. You have been warned.'
+advertisement:
+  kick-player: true
+  warn-player: false
+  fine-player: false
+  fine-cost: 10
+  kick-message: You have been kicked for advertising!
+  warn-message: '&cDo not advertise! You have been warned.'
+URL:
+  replace-periods-player: true
+spam:
+  seconds-between-message: 5.0
+  first-warn-before-kick: '&cWarning! Please do not spam!'
+  second-warn-before-kick: '&cWarning! Please do not spam or you will be kicked!'
+  kick-message: You have been kicked for spamming!
+join/quit-message:
+  remove-join-message: false
+  remove-quit-message: false
+  join-message: '&5Player %Player% has joined the server!'
+  quit-message: '&5Player %Player% has left the server!'
+prebuilt-channels:
+  chat-channel-format: '<%ChannelName%> %Player%: '
+  global:
+    color: white
+    active-worlds:
+    - world
+    - world_nether
+    - world_the_end
+    join-message: true
+    leave-message: true
+  local:
+    color: yellow
+    active-worlds:
+    - world
+    - world_nether
+    - world_the_end
+    join-message: true
+    leave-message: true
+    radius: 10
+custom-channels:
+  trade:
+    full-name: Trade
+    color: green
+    active-worlds:
+    - world
+    - world_nether
+    - world_the_end
+    join-message: true
+    leave-message: true
+  staff:
+    full-name: Staff
+    color: red
+    active-worlds:
+    - world
+    - world_nether
+    - world_the_end
+    join-message: true
+    leave-message: true
+  s:
+    full-name: Staff
+    color: red
+    active-worlds:
+    - world
+    - world_nether
+    - world_the_end
+    join-message: true
+    leave-message: true
+other:
+  private-message-color: lightpurple
+  custom-broadcast-title: '&c[&bBroadcast&c]:&b %Message%'
+  nickname-color-symbol: red
+  me-emote-format: '* %Player%'
+  me-emote-color: darkpurple
+blocked-color-codes:
+- ''
+muted-players:
+- ''
+nicknamed-players:
+- ''
+active-spychat-players:
+- ''

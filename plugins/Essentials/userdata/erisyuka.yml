@@ -1,19 +1,19 @@
 timestamps:
-  login: 1373191716589
-  logout: 1373194344428
+  login: 1373268308590
+  logout: 1373269006637
 ipAddress: 192.168.1.2
 lastlocation:
   world: Creative
   x: -274.5
-  y: 23.0
+  y: 22.705999994277956
   z: 276.5
   yaw: 0.0
   pitch: 0.0
 logoutlocation:
   world: Gate
-  x: 58.85847224771258
-  y: 64.15731300874091
-  z: 344.63230318417743
-  yaw: -87.96979
-  pitch: 0.9119265
+  x: 143.29002514505078
+  y: 104.6056549387134
+  z: 263.4531177829696
+  yaw: -353.31915
+  pitch: 19.046505
 afk: false

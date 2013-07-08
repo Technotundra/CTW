@@ -1,0 +1,915 @@
+2013-07-08 00:04:09 [INFO] Starting minecraft server version 1.6.1
+2013-07-08 00:04:09 [INFO] Loading properties
+2013-07-08 00:04:09 [INFO] Default game type: SURVIVAL
+2013-07-08 00:04:09 [INFO] Generating keypair
+2013-07-08 00:04:10 [INFO] Starting Minecraft server on *:25565
+2013-07-08 00:04:10 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.2-R1.0-16-g1d933a4-b2805jnks (MC: 1.6.1) (Implementing API version 1.6.1-R0.1-SNAPSHOT)
+2013-07-08 00:04:11 [INFO] [PermissionsEx] sql backend registered!
+2013-07-08 00:04:11 [INFO] [PermissionsEx] file backend registered!
+2013-07-08 00:04:11 [INFO] [PermissionsEx] PermissionEx plugin initialized.
+2013-07-08 00:04:11 [INFO] ----- Bukkit Auto Updater -----
+2013-07-08 00:04:11 [INFO] It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-07-08 00:04:11 [INFO] If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+2013-07-08 00:04:11 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-07-08 00:04:11 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-07-08 00:04:11 [INFO] ----- ------------------- -----
+2013-07-08 00:04:12 [INFO] [TuxTwoLib] Loading TuxTwoLib v1.6.1-b2
+2013-07-08 00:04:12 [INFO] [SimpleBackup] Loading SimpleBackup v1.5
+2013-07-08 00:04:12 [INFO] [SimplePluginManager] Loading SimplePluginManager v1.1
+2013-07-08 00:04:12 [INFO] [WorldEdit] Loading WorldEdit v5.5.6
+2013-07-08 00:04:12 [INFO] [MagicSigns] Loading MagicSigns v1.8.0
+2013-07-08 00:04:12 [INFO] [ServerInfoEditor] Loading ServerInfoEditor v1.0
+2013-07-08 00:04:12 [INFO] [NoCraft] Loading NoCraft v1.0
+2013-07-08 00:04:12 [INFO] [PermissionsEx] Loading PermissionsEx v1.19.6
+2013-07-08 00:04:12 [INFO] [PermissionsEx] Initializing file backend
+2013-07-08 00:04:12 [INFO] Permissions file successfully reloaded
+2013-07-08 00:04:12 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.5-b670
+2013-07-08 00:04:12 [INFO] [WorldGuard] Loading WorldGuard v5.7.5
+2013-07-08 00:04:12 [INFO] [AlwaysDay] Loading AlwaysDay v2.0
+2013-07-08 00:04:12 [INFO] [Sign Edit] Loading Sign Edit v0.3
+2013-07-08 00:04:12 [INFO] [JoinFull] Loading JoinFull v1.1
+2013-07-08 00:04:12 [INFO] [VoteCommand] Loading VoteCommand v1.0
+2013-07-08 00:04:12 [INFO] [OpenInv] Loading OpenInv v2.0.4
+2013-07-08 00:04:12 [INFO] [AdvancedBans] Loading AdvancedBans v0.81
+2013-07-08 00:04:12 [INFO] [NametagEdit] Loading NametagEdit v1.8
+2013-07-08 00:04:12 [INFO] [NukeChat] Loading NukeChat v13.4
+2013-07-08 00:04:12 [INFO] [Fake Leave] Loading Fake Leave v12.0
+2013-07-08 00:04:12 [INFO] [Essentials] Loading Essentials vPre2.11.1.2
+2013-07-08 00:04:12 [INFO] [EssentialsProtect] Loading EssentialsProtect vPre2.11.1.2
+2013-07-08 00:04:12 [INFO] [EssentialsSpawn] Loading EssentialsSpawn vPre2.11.1.2
+2013-07-08 00:04:12 [INFO] [Multiverse-Inventories] Loading Multiverse-Inventories v2.5-b357
+2013-07-08 00:04:12 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b665
+2013-07-08 00:04:12 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild vPre2.11.1.2
+2013-07-08 00:04:12 [INFO] [EssentialsChat] Loading EssentialsChat vPre2.11.1.2
+2013-07-08 00:04:12 [INFO] [ServerInfoEditor] Enabling ServerInfoEditor v1.0
+2013-07-08 00:04:12 [INFO] [ServerInfoEditor] ServerInfoEditor has been enabled!
+2013-07-08 00:04:12 [INFO] Preparing level "Gate"
+2013-07-08 00:04:12 [INFO] Preparing start region for level 0 (Seed: -6763850205428449256)
+2013-07-08 00:04:13 [INFO] Preparing spawn area: 97%
+2013-07-08 00:04:13 [INFO] Preparing start region for level 1 (Seed: 5692084478635644187)
+2013-07-08 00:04:14 [INFO] Preparing spawn area: 8%
+2013-07-08 00:04:15 [INFO] Preparing spawn area: 16%
+2013-07-08 00:04:16 [INFO] Preparing spawn area: 27%
+2013-07-08 00:04:17 [INFO] Preparing spawn area: 41%
+2013-07-08 00:04:18 [INFO] Preparing spawn area: 51%
+2013-07-08 00:04:19 [INFO] Preparing spawn area: 62%
+2013-07-08 00:04:21 [INFO] Preparing spawn area: 69%
+2013-07-08 00:04:22 [INFO] Preparing spawn area: 77%
+2013-07-08 00:04:23 [INFO] Preparing spawn area: 91%
+2013-07-08 00:04:23 [INFO] Preparing start region for level 2 (Seed: 5692084478635644187)
+2013-07-08 00:04:24 [INFO] Preparing spawn area: 47%
+2013-07-08 00:04:25 [INFO] Preparing spawn area: 89%
+2013-07-08 00:04:26 [INFO] [TuxTwoLib] Enabling TuxTwoLib v1.6.1-b2
+2013-07-08 00:04:26 [INFO] [SimpleBackup] Enabling SimpleBackup v1.5
+2013-07-08 00:04:26 [INFO] [SimpleBackup] Worlds [CraftWorld{name=Gate}, CraftWorld{name=Gate_nether}, CraftWorld{name=Gate_the_end}] scheduled for backup.
+2013-07-08 00:04:26 [INFO] [SimpleBackup] Backup scheduled starting in 1.0 hours, repeat interval: 1.0 hours
+2013-07-08 00:04:26 [INFO] [SimpleBackup] Enabled.
+2013-07-08 00:04:26 [INFO] [SimplePluginManager] Enabling SimplePluginManager v1.1
+2013-07-08 00:04:26 [INFO] [SimplePluginManager] by [monster010]
+2013-07-08 00:04:26 [INFO] [WorldEdit] Enabling WorldEdit v5.5.6
+2013-07-08 00:04:27 [INFO] WEPIF: Using the Bukkit Permissions API.
+2013-07-08 00:04:27 [INFO] [MagicSigns] Enabling MagicSigns v1.8.0
+2013-07-08 00:04:27 [INFO] [MagicSigns] Vault was not found, all signs will be free!
+2013-07-08 00:04:27 [INFO] [MagicSigns] Vault was not found, permission signs will not work (Permissions in general will work though!)
+2013-07-08 00:04:27 [INFO] [NoCraft] Enabling NoCraft v1.0
+2013-07-08 00:04:27 [INFO] [PermissionsEx] Enabling PermissionsEx v1.19.6
+2013-07-08 00:04:27 [INFO] [PermissionsEx] Superperms disabled. Check "config.yml" to enable.
+2013-07-08 00:04:27 [INFO] [PermissionsEx] v1.19.6 enabled
+2013-07-08 00:04:27 [INFO] WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+2013-07-08 00:04:27 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.5-b670
+2013-07-08 00:04:27 [INFO] [Multiverse-Core] [AllPay] - Version 13.0 - hooked into Essentials Economy for Multiverse-Core v2.5-b670
+2013-07-08 00:04:28 [WARNING] [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Creative_nether
+2013-07-08 00:04:28 [WARNING] [Multiverse-Core] Use '/mv remove' to remove it from the config!
+2013-07-08 00:04:28 [INFO] Preparing start region for level 3 (Seed: -1047402018725018594)
+2013-07-08 00:04:29 [WARNING] [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: CTWA
+2013-07-08 00:04:29 [WARNING] [Multiverse-Core] Use '/mv remove' to remove it from the config!
+2013-07-08 00:04:29 [WARNING] [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Jump
+2013-07-08 00:04:29 [WARNING] [Multiverse-Core] Use '/mv remove' to remove it from the config!
+2013-07-08 00:04:29 [WARNING] [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Survival
+2013-07-08 00:04:29 [WARNING] [Multiverse-Core] Use '/mv remove' to remove it from the config!
+2013-07-08 00:04:29 [WARNING] [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Survival_the_end
+2013-07-08 00:04:29 [WARNING] [Multiverse-Core] Use '/mv remove' to remove it from the config!
+2013-07-08 00:04:29 [WARNING] [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: CTW_nether
+2013-07-08 00:04:29 [WARNING] [Multiverse-Core] Use '/mv remove' to remove it from the config!
+2013-07-08 00:04:29 [INFO] Preparing start region for level 4 (Seed: 1920585402)
+2013-07-08 00:04:30 [WARNING] [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: tempworld-1
+2013-07-08 00:04:30 [WARNING] [Multiverse-Core] Use '/mv remove' to remove it from the config!
+2013-07-08 00:04:30 [WARNING] [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Breeze
+2013-07-08 00:04:30 [WARNING] [Multiverse-Core] Use '/mv remove' to remove it from the config!
+2013-07-08 00:04:30 [WARNING] [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: MCSG
+2013-07-08 00:04:30 [WARNING] [Multiverse-Core] Use '/mv remove' to remove it from the config!
+2013-07-08 00:04:30 [INFO] Preparing start region for level 5 (Seed: 1920585402)
+2013-07-08 00:04:32 [WARNING] [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Survival_nether
+2013-07-08 00:04:32 [WARNING] [Multiverse-Core] Use '/mv remove' to remove it from the config!
+2013-07-08 00:04:32 [WARNING] [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: SurvivalOld_nether
+2013-07-08 00:04:32 [WARNING] [Multiverse-Core] Use '/mv remove' to remove it from the config!
+2013-07-08 00:04:32 [WARNING] [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: MAP
+2013-07-08 00:04:32 [WARNING] [Multiverse-Core] Use '/mv remove' to remove it from the config!
+2013-07-08 00:04:32 [WARNING] [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: WW1
+2013-07-08 00:04:32 [WARNING] [Multiverse-Core] Use '/mv remove' to remove it from the config!
+2013-07-08 00:04:32 [WARNING] [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: SurvivalMain
+2013-07-08 00:04:32 [WARNING] [Multiverse-Core] Use '/mv remove' to remove it from the config!
+2013-07-08 00:04:32 [WARNING] [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: SG4
+2013-07-08 00:04:32 [WARNING] [Multiverse-Core] Use '/mv remove' to remove it from the config!
+2013-07-08 00:04:32 [WARNING] [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: survivalOld
+2013-07-08 00:04:32 [WARNING] [Multiverse-Core] Use '/mv remove' to remove it from the config!
+2013-07-08 00:04:32 [WARNING] [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: JMAZE
+2013-07-08 00:04:32 [WARNING] [Multiverse-Core] Use '/mv remove' to remove it from the config!
+2013-07-08 00:04:32 [WARNING] [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: MelanyCraft
+2013-07-08 00:04:32 [WARNING] [Multiverse-Core] Use '/mv remove' to remove it from the config!
+2013-07-08 00:04:32 [WARNING] [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Creative_the_end
+2013-07-08 00:04:32 [WARNING] [Multiverse-Core] Use '/mv remove' to remove it from the config!
+2013-07-08 00:04:32 [INFO] Preparing start region for level 6 (Seed: 1920585402)
+2013-07-08 00:04:33 [WARNING] [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: CTW_the_end
+2013-07-08 00:04:33 [WARNING] [Multiverse-Core] Use '/mv remove' to remove it from the config!
+2013-07-08 00:04:33 [INFO] [Multiverse-Core] 7 - World(s) loaded.
+2013-07-08 00:04:33 [INFO] [Multiverse-Core] Version 2.5-b670 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+2013-07-08 00:04:33 [INFO] [WorldGuard] Enabling WorldGuard v5.7.5
+2013-07-08 00:04:33 [INFO] [WorldGuard] (Gate) TNT ignition is PERMITTED.
+2013-07-08 00:04:33 [INFO] [WorldGuard] (Gate) Lighters are PERMITTED.
+2013-07-08 00:04:33 [INFO] [WorldGuard] (Gate) Lava fire is blocked.
+2013-07-08 00:04:33 [INFO] [WorldGuard] (Gate) Fire spread is UNRESTRICTED.
+2013-07-08 00:04:33 [INFO] [WorldGuard] Loaded configuration for world 'Gate'
+2013-07-08 00:04:33 [INFO] [WorldGuard] (Gate_nether) TNT ignition is PERMITTED.
+2013-07-08 00:04:33 [INFO] [WorldGuard] (Gate_nether) Lighters are PERMITTED.
+2013-07-08 00:04:33 [INFO] [WorldGuard] (Gate_nether) Lava fire is blocked.
+2013-07-08 00:04:33 [INFO] [WorldGuard] (Gate_nether) Fire spread is UNRESTRICTED.
+2013-07-08 00:04:33 [INFO] [WorldGuard] Loaded configuration for world 'Gate_nether'
+2013-07-08 00:04:33 [INFO] [WorldGuard] (Gate_the_end) TNT ignition is PERMITTED.
+2013-07-08 00:04:33 [INFO] [WorldGuard] (Gate_the_end) Lighters are PERMITTED.
+2013-07-08 00:04:33 [INFO] [WorldGuard] (Gate_the_end) Lava fire is blocked.
+2013-07-08 00:04:33 [INFO] [WorldGuard] (Gate_the_end) Fire spread is UNRESTRICTED.
+2013-07-08 00:04:33 [INFO] [WorldGuard] Loaded configuration for world 'Gate_the_end'
+2013-07-08 00:04:33 [INFO] [WorldGuard] (Creative) TNT ignition is PERMITTED.
+2013-07-08 00:04:33 [INFO] [WorldGuard] (Creative) Lighters are PERMITTED.
+2013-07-08 00:04:33 [INFO] [WorldGuard] (Creative) Lava fire is blocked.
+2013-07-08 00:04:33 [INFO] [WorldGuard] (Creative) Fire spread is UNRESTRICTED.
+2013-07-08 00:04:33 [INFO] [WorldGuard] Loaded configuration for world 'Creative'
+2013-07-08 00:04:33 [INFO] [WorldGuard] (CTW2) TNT ignition is PERMITTED.
+2013-07-08 00:04:33 [INFO] [WorldGuard] (CTW2) Lighters are PERMITTED.
+2013-07-08 00:04:33 [INFO] [WorldGuard] (CTW2) Lava fire is blocked.
+2013-07-08 00:04:33 [INFO] [WorldGuard] (CTW2) Fire spread is UNRESTRICTED.
+2013-07-08 00:04:33 [INFO] [WorldGuard] Loaded configuration for world 'CTW2'
+2013-07-08 00:04:33 [INFO] [WorldGuard] (CTWH) TNT ignition is PERMITTED.
+2013-07-08 00:04:33 [INFO] [WorldGuard] (CTWH) Lighters are PERMITTED.
+2013-07-08 00:04:33 [INFO] [WorldGuard] (CTWH) Lava fire is blocked.
+2013-07-08 00:04:33 [INFO] [WorldGuard] (CTWH) Fire spread is UNRESTRICTED.
+2013-07-08 00:04:33 [INFO] [WorldGuard] Loaded configuration for world 'CTWH'
+2013-07-08 00:04:33 [INFO] [WorldGuard] (CTW) TNT ignition is PERMITTED.
+2013-07-08 00:04:33 [INFO] [WorldGuard] (CTW) Lighters are PERMITTED.
+2013-07-08 00:04:33 [INFO] [WorldGuard] (CTW) Lava fire is blocked.
+2013-07-08 00:04:33 [INFO] [WorldGuard] (CTW) Fire spread is UNRESTRICTED.
+2013-07-08 00:04:33 [INFO] [WorldGuard] Loaded configuration for world 'CTW'
+2013-07-08 00:04:33 [INFO] [WorldGuard] 0 regions loaded for 'Gate'
+2013-07-08 00:04:33 [INFO] [WorldGuard] 0 regions loaded for 'Gate_nether'
+2013-07-08 00:04:33 [INFO] [WorldGuard] 0 regions loaded for 'Gate_the_end'
+2013-07-08 00:04:33 [INFO] [WorldGuard] 0 regions loaded for 'Creative'
+2013-07-08 00:04:33 [INFO] [WorldGuard] 0 regions loaded for 'CTW2'
+2013-07-08 00:04:33 [INFO] [WorldGuard] 0 regions loaded for 'CTWH'
+2013-07-08 00:04:34 [INFO] [WorldGuard] 3 regions loaded for 'CTW'
+2013-07-08 00:04:34 [INFO] [AlwaysDay] Enabling AlwaysDay v2.0
+2013-07-08 00:04:34 [INFO] [AlwaysDay] AlwaysDay v2.0 is now enabled.
+2013-07-08 00:04:34 [INFO] [Sign Edit] Enabling Sign Edit v0.3
+2013-07-08 00:04:34 [INFO] [Sign Edit] Alls languages can be found here : http://dev.bukkit.org/server-mods/sign-edit/localization/.
+2013-07-08 00:04:34 [INFO] [JoinFull] Enabling JoinFull v1.1
+2013-07-08 00:04:34 [INFO] Joinfull Has Successfully ENABLED!
+2013-07-08 00:04:34 [INFO] [VoteCommand] Enabling VoteCommand v1.0
+2013-07-08 00:04:34 [INFO] Enabled VoteCommand.
+2013-07-08 00:04:34 [INFO] [OpenInv] Enabling OpenInv v2.0.4
+2013-07-08 00:04:34 [INFO] [AdvancedBans] Enabling AdvancedBans v0.81
+2013-07-08 00:04:34 [INFO] [NametagEdit] Enabling NametagEdit v1.8
+2013-07-08 00:04:34 [INFO] [NukeChat] Enabling NukeChat v13.4
+2013-07-08 00:04:34 [WARNING] [NukeChat] ==============================
+2013-07-08 00:04:34 [WARNING] [NukeChat] ERROR: NukeChat.jar is disabled
+2013-07-08 00:04:34 [WARNING] [NukeChat] because Vault.jar plugin is not
+2013-07-08 00:04:34 [WARNING] [NukeChat] intalled! Please install for it
+2013-07-08 00:04:34 [WARNING] [NukeChat] to be enabled!
+2013-07-08 00:04:34 [WARNING] [NukeChat] ==============================
+2013-07-08 00:04:34 [INFO] [NukeChat] Disabling NukeChat v13.4
+2013-07-08 00:04:34 [INFO] [NukeChat] Nuke's plugin is now disabled!
+2013-07-08 00:04:36 [INFO] [Fake Leave] Enabling Fake Leave v12.0
+2013-07-08 00:04:36 [INFO] Fake Leave Version 12.0 Me am better
+2013-07-08 00:04:36 [INFO] [Essentials] Enabling Essentials vPre2.11.1.2
+2013-07-08 00:04:37 [INFO] Essentials: Using PermissionsEx based permissions.
+2013-07-08 00:04:37 [INFO] [EssentialsProtect] Enabling EssentialsProtect vPre2.11.1.2
+2013-07-08 00:04:37 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn vPre2.11.1.2
+2013-07-08 00:04:37 [INFO] [Multiverse-Inventories] Enabling Multiverse-Inventories v2.5-b357
+2013-07-08 00:04:38 [INFO] [Multiverse-Inventories] The following worlds for group 'Survival' are not loaded: Survival, Survival_the_end, Survival_nether
+2013-07-08 00:04:38 [INFO] [Multiverse-Inventories] The following worlds for group 'SurvivalOld' are not loaded: SurvivalOld, SurvivalOld_the_end, SurvivalOld_nether
+2013-07-08 00:04:38 [INFO] [Multiverse-Inventories 2.5-b357] enabled.
+2013-07-08 00:04:38 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b665
+2013-07-08 00:04:38 [INFO] [Multiverse-NetherPortals] - Version 2.5-b665 Enabled - By Rigby and fernferret
+2013-07-08 00:04:38 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild vPre2.11.1.2
+2013-07-08 00:04:39 [INFO] [EssentialsChat] Enabling EssentialsChat vPre2.11.1.2
+2013-07-08 00:04:48 [INFO] Done (35.634s)! For help, type "help" or "?"
+2013-07-08 00:04:48 [INFO] Starting GS4 status listener
+2013-07-08 00:04:48 [INFO] Query running on 0.0.0.0:25568
+2013-07-08 00:04:48 [INFO] [NametagEdit] Hooked into PermissionsEx!
+2013-07-08 00:06:18 [INFO] Erisyuka[/192.168.1.2:64960] logged in with entity id 195 at ([Gate] 195.5, 78.0, 201.5)
+2013-07-08 00:06:18 [INFO] Setting prefix/suffix for Erisyuka: �4, �0-�5sama (user)
+2013-07-08 00:06:27 [WARNING] [WorldEdit] No compatible nms block class found.
+2013-07-08 00:06:40 [INFO] Erisyuka issued server command: /time day
+2013-07-08 00:06:46 [INFO] Erisyuka issued server command: /mv remove SG4
+2013-07-08 00:06:46 [INFO] [Multiverse-Core] World 'SG4' was removed from config.yml
+2013-07-08 00:06:52 [INFO] Erisyuka issued server command: /mv remove SG
+2013-07-08 00:06:52 [INFO] [Multiverse-Core] Multiverse does not know about 'SG' and it's not loaded by Bukkit.
+2013-07-08 00:06:58 [INFO] Erisyuka issued server command: /mv remove Jump
+2013-07-08 00:06:58 [INFO] [Multiverse-Core] World 'Jump' was removed from config.yml
+2013-07-08 00:07:03 [INFO] Erisyuka issued server command: /mv remove JMaze
+2013-07-08 00:07:03 [INFO] [Multiverse-Core] Multiverse does not know about 'JMaze' and it's not loaded by Bukkit.
+2013-07-08 00:07:06 [INFO] Erisyuka issued server command: /mv remove JMAZE
+2013-07-08 00:07:06 [INFO] [Multiverse-Core] World 'JMAZE' was removed from config.yml
+2013-07-08 00:07:27 [INFO] Erisyuka issued server command: /mv remove Melanycraft
+2013-07-08 00:07:27 [INFO] [Multiverse-Core] Multiverse does not know about 'Melanycraft' and it's not loaded by Bukkit.
+2013-07-08 00:07:36 [INFO] Erisyuka issued server command: /mv remove MelanyCraft
+2013-07-08 00:07:36 [INFO] [Multiverse-Core] World 'MelanyCraft' was removed from config.yml
+2013-07-08 00:07:47 [INFO] Erisyuka issued server command: /mv remove survivalOld
+2013-07-08 00:07:47 [INFO] [Multiverse-Core] World 'survivalOld' was removed from config.yml
+2013-07-08 00:08:02 [INFO] Erisyuka issued server command: /mv remove CTW_the_end
+2013-07-08 00:08:02 [INFO] [Multiverse-Core] World 'CTW_the_end' was removed from config.yml
+2013-07-08 00:08:07 [INFO] Erisyuka issued server command: /mv remove CTW_nether
+2013-07-08 00:08:07 [INFO] [Multiverse-Core] World 'CTW_nether' was removed from config.yml
+2013-07-08 00:08:19 [INFO] Erisyuka issued server command: /mv remove Creative_the_end
+2013-07-08 00:08:19 [INFO] [Multiverse-Core] World 'Creative_the_end' was removed from config.yml
+2013-07-08 00:08:23 [INFO] Erisyuka issued server command: /mv remove Creative_nether
+2013-07-08 00:08:23 [INFO] [Multiverse-Core] World 'Creative_nether' was removed from config.yml
+2013-07-08 00:08:41 [INFO] Erisyuka issued server command: /mv remove SurvivalMain
+2013-07-08 00:08:41 [INFO] [Multiverse-Core] World 'SurvivalMain' was removed from config.yml
+2013-07-08 00:08:45 [INFO] Erisyuka issued server command: /mv remove SurvivalMain_nether
+2013-07-08 00:08:45 [INFO] [Multiverse-Core] Multiverse does not know about 'SurvivalMain_nether' and it's not loaded by Bukkit.
+2013-07-08 00:08:54 [INFO] Erisyuka issued server command: /mv remove WW1
+2013-07-08 00:08:54 [INFO] [Multiverse-Core] World 'WW1' was removed from config.yml
+2013-07-08 00:08:59 [INFO] Erisyuka issued server command: /mv remove MAP
+2013-07-08 00:08:59 [INFO] [Multiverse-Core] World 'MAP' was removed from config.yml
+2013-07-08 00:09:21 [INFO] Erisyuka issued server command: /mv remove SurvivalOld_nether
+2013-07-08 00:09:21 [INFO] [Multiverse-Core] World 'SurvivalOld_nether' was removed from config.yml
+2013-07-08 00:09:26 [INFO] Erisyuka issued server command: /mv remove SurvivalOld_the_end
+2013-07-08 00:09:26 [INFO] [Multiverse-Core] Multiverse does not know about 'SurvivalOld_the_end' and it's not loaded by Bukkit.
+2013-07-08 00:09:33 [INFO] Erisyuka issued server command: /mv remove MCSG
+2013-07-08 00:09:33 [INFO] [Multiverse-Core] World 'MCSG' was removed from config.yml
+2013-07-08 00:09:39 [INFO] Erisyuka issued server command: /mv remove Breeze
+2013-07-08 00:09:39 [INFO] [Multiverse-Core] World 'Breeze' was removed from config.yml
+2013-07-08 00:09:51 [INFO] Erisyuka issued server command: /mv remove tempworld-1
+2013-07-08 00:09:51 [INFO] [Multiverse-Core] World 'tempworld-1' was removed from config.yml
+2013-07-08 00:10:02 [INFO] Erisyuka issued server command: /mv remove CTW_nether
+2013-07-08 00:10:02 [INFO] [Multiverse-Core] Multiverse does not know about 'CTW_nether' and it's not loaded by Bukkit.
+2013-07-08 00:10:09 [INFO] Erisyuka issued server command: /mv remove Survival
+2013-07-08 00:10:09 [INFO] [Multiverse-Core] World 'Survival' was removed from config.yml
+2013-07-08 00:10:12 [INFO] Erisyuka issued server command: /mv remove Survival_nether
+2013-07-08 00:10:12 [INFO] [Multiverse-Core] World 'Survival_nether' was removed from config.yml
+2013-07-08 00:10:16 [INFO] Erisyuka issued server command: /mv remove Survival_the_end
+2013-07-08 00:10:16 [INFO] [Multiverse-Core] World 'Survival_the_end' was removed from config.yml
+2013-07-08 00:10:27 [INFO] Erisyuka issued server command: /mv remove Jump
+2013-07-08 00:10:27 [INFO] [Multiverse-Core] Multiverse does not know about 'Jump' and it's not loaded by Bukkit.
+2013-07-08 00:10:33 [INFO] Erisyuka issued server command: /mv remove CTWA
+2013-07-08 00:10:33 [INFO] [Multiverse-Core] World 'CTWA' was removed from config.yml
+2013-07-08 00:10:41 [INFO] Erisyuka issued server command: /mv remove Survival
+2013-07-08 00:10:41 [INFO] [Multiverse-Core] Multiverse does not know about 'Survival' and it's not loaded by Bukkit.
+2013-07-08 00:10:53 [INFO] Erisyuka issued server command: /mv remove Creative_nether
+2013-07-08 00:10:53 [INFO] [Multiverse-Core] Multiverse does not know about 'Creative_nether' and it's not loaded by Bukkit.
+2013-07-08 00:10:57 [INFO] Erisyuka issued server command: /stop
+2013-07-08 00:10:57 [INFO] Erisyuka: Stopping the server..[m
+2013-07-08 00:10:57 [INFO] Stopping server
+2013-07-08 00:10:57 [INFO] [EssentialsChat] Disabling EssentialsChat vPre2.11.1.2
+2013-07-08 00:10:57 [INFO] [EssentialsAntiBuild] Disabling EssentialsAntiBuild vPre2.11.1.2
+2013-07-08 00:10:57 [INFO] [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b665
+2013-07-08 00:10:57 [INFO] [Multiverse-NetherPortals] - Disabled
+2013-07-08 00:10:57 [INFO] [Multiverse-Inventories] Disabling Multiverse-Inventories v2.5-b357
+2013-07-08 00:10:57 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn vPre2.11.1.2
+2013-07-08 00:10:57 [INFO] [EssentialsProtect] Disabling EssentialsProtect vPre2.11.1.2
+2013-07-08 00:10:57 [INFO] [Essentials] Disabling Essentials vPre2.11.1.2
+2013-07-08 00:10:57 [INFO] [Fake Leave] Disabling Fake Leave v12.0
+2013-07-08 00:10:57 [INFO] Fake Leaveon nos it broke
+2013-07-08 00:10:57 [INFO] [NametagEdit] Disabling NametagEdit v1.8
+2013-07-08 00:10:57 [INFO] [AdvancedBans] Disabling AdvancedBans v0.81
+2013-07-08 00:10:57 [INFO] AdvancedBans version 0.81 is disabled!
+2013-07-08 00:10:57 [INFO] [OpenInv] Disabling OpenInv v2.0.4
+2013-07-08 00:10:57 [INFO] [VoteCommand] Disabling VoteCommand v1.0
+2013-07-08 00:10:57 [INFO] Disabled VoteCommand.
+2013-07-08 00:10:57 [INFO] [JoinFull] Disabling JoinFull v1.1
+2013-07-08 00:10:57 [INFO] Joinfull Has Successfully DISABLED!
+2013-07-08 00:10:57 [INFO] [Sign Edit] Disabling Sign Edit v0.3
+2013-07-08 00:10:57 [INFO] [AlwaysDay] Disabling AlwaysDay v2.0
+2013-07-08 00:10:57 [INFO] [AlwaysDay] AlwaysDay v2.0 is now disabled.
+2013-07-08 00:10:57 [INFO] [WorldGuard] Disabling WorldGuard v5.7.5
+2013-07-08 00:10:57 [INFO] [Multiverse-Core] Disabling Multiverse-Core v2.5-b670
+2013-07-08 00:10:57 [INFO] [PermissionsEx] Disabling PermissionsEx v1.19.6
+2013-07-08 00:10:57 [INFO] WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+2013-07-08 00:10:57 [INFO] Permissions file successfully reloaded
+2013-07-08 00:10:57 [INFO] [PermissionsEx] v1.19.6 disabled successfully.
+2013-07-08 00:10:57 [INFO] [NoCraft] Disabling NoCraft v1.0
+2013-07-08 00:10:57 [INFO] [ServerInfoEditor] Disabling ServerInfoEditor v1.0
+2013-07-08 00:10:57 [INFO] [ServerInfoEditor] ServerInfoEditor Has Been disabled!
+2013-07-08 00:10:57 [INFO] [MagicSigns] Disabling MagicSigns v1.8.0
+2013-07-08 00:10:57 [INFO] [WorldEdit] Disabling WorldEdit v5.5.6
+2013-07-08 00:10:57 [INFO] [SimplePluginManager] Disabling SimplePluginManager v1.1
+2013-07-08 00:10:57 [INFO] [SimpleBackup] Disabling SimpleBackup v1.5
+2013-07-08 00:10:57 [INFO] [SimpleBackup] Disabled SimpleBackup
+2013-07-08 00:10:57 [INFO] [TuxTwoLib] Disabling TuxTwoLib v1.6.1-b2
+2013-07-08 00:10:57 [INFO] Saving players
+2013-07-08 00:10:57 [WARNING] DSCT: Socket closed
+2013-07-08 00:10:57 [INFO] Closing listening thread
+2013-07-08 00:10:57 [INFO] §eErisyuka left the game.
+2013-07-08 00:10:57 [SEVERE] Reached end of stream for /192.168.1.2
+2013-07-08 00:10:57 [INFO] Saving worlds
+2013-07-08 00:10:57 [INFO] Saving chunks for level 'Gate'/Overworld
+2013-07-08 00:10:57 [INFO] Saving chunks for level 'Gate_nether'/Nether
+2013-07-08 00:10:57 [INFO] Saving chunks for level 'Gate_the_end'/The End
+2013-07-08 00:10:57 [INFO] Saving chunks for level 'Creative'/Overworld
+2013-07-08 00:10:57 [INFO] Saving chunks for level 'CTW2'/Overworld
+2013-07-08 00:10:57 [INFO] Saving chunks for level 'CTWH'/Overworld
+2013-07-08 00:10:58 [INFO] Saving chunks for level 'CTW'/Overworld
+2013-07-08 00:10:58 [INFO] Stopping server
+2013-07-08 00:11:18 [INFO] Starting minecraft server version 1.6.1
+2013-07-08 00:11:18 [INFO] Loading properties
+2013-07-08 00:11:18 [INFO] Default game type: SURVIVAL
+2013-07-08 00:11:18 [INFO] Generating keypair
+2013-07-08 00:11:18 [INFO] Starting Minecraft server on *:25565
+2013-07-08 00:11:18 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.2-R1.0-16-g1d933a4-b2805jnks (MC: 1.6.1) (Implementing API version 1.6.1-R0.1-SNAPSHOT)
+2013-07-08 00:11:19 [INFO] [PermissionsEx] sql backend registered!
+2013-07-08 00:11:19 [INFO] [PermissionsEx] file backend registered!
+2013-07-08 00:11:19 [INFO] [PermissionsEx] PermissionEx plugin initialized.
+2013-07-08 00:11:20 [INFO] [TuxTwoLib] Loading TuxTwoLib v1.6.1-b2
+2013-07-08 00:11:20 [INFO] [SimpleBackup] Loading SimpleBackup v1.5
+2013-07-08 00:11:20 [INFO] [SimplePluginManager] Loading SimplePluginManager v1.1
+2013-07-08 00:11:20 [INFO] [WorldEdit] Loading WorldEdit v5.5.6
+2013-07-08 00:11:20 [INFO] [MagicSigns] Loading MagicSigns v1.8.0
+2013-07-08 00:11:20 [INFO] [ServerInfoEditor] Loading ServerInfoEditor v1.0
+2013-07-08 00:11:20 [INFO] [NoCraft] Loading NoCraft v1.0
+2013-07-08 00:11:20 [INFO] [PermissionsEx] Loading PermissionsEx v1.19.6
+2013-07-08 00:11:20 [INFO] [PermissionsEx] Initializing file backend
+2013-07-08 00:11:20 [INFO] Permissions file successfully reloaded
+2013-07-08 00:11:20 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.5-b670
+2013-07-08 00:11:20 [INFO] [WorldGuard] Loading WorldGuard v5.7.5
+2013-07-08 00:11:20 [INFO] [AlwaysDay] Loading AlwaysDay v2.0
+2013-07-08 00:11:20 [INFO] [Sign Edit] Loading Sign Edit v0.3
+2013-07-08 00:11:20 [INFO] [JoinFull] Loading JoinFull v1.1
+2013-07-08 00:11:20 [INFO] [VoteCommand] Loading VoteCommand v1.0
+2013-07-08 00:11:20 [INFO] [OpenInv] Loading OpenInv v2.0.4
+2013-07-08 00:11:20 [INFO] [AdvancedBans] Loading AdvancedBans v0.81
+2013-07-08 00:11:20 [INFO] [NametagEdit] Loading NametagEdit v1.8
+2013-07-08 00:11:20 [INFO] [NukeChat] Loading NukeChat v13.4
+2013-07-08 00:11:20 [INFO] [Fake Leave] Loading Fake Leave v12.0
+2013-07-08 00:11:20 [INFO] [Essentials] Loading Essentials vPre2.11.1.2
+2013-07-08 00:11:20 [INFO] [EssentialsProtect] Loading EssentialsProtect vPre2.11.1.2
+2013-07-08 00:11:20 [INFO] [EssentialsSpawn] Loading EssentialsSpawn vPre2.11.1.2
+2013-07-08 00:11:20 [INFO] [Multiverse-Inventories] Loading Multiverse-Inventories v2.5-b357
+2013-07-08 00:11:20 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b665
+2013-07-08 00:11:20 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild vPre2.11.1.2
+2013-07-08 00:11:20 [INFO] [EssentialsChat] Loading EssentialsChat vPre2.11.1.2
+2013-07-08 00:11:20 [INFO] [ServerInfoEditor] Enabling ServerInfoEditor v1.0
+2013-07-08 00:11:20 [INFO] [ServerInfoEditor] ServerInfoEditor has been enabled!
+2013-07-08 00:11:20 [INFO] ----- Bukkit Auto Updater -----
+2013-07-08 00:11:20 [INFO] It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-07-08 00:11:20 [INFO] If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+2013-07-08 00:11:20 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-07-08 00:11:20 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-07-08 00:11:20 [INFO] ----- ------------------- -----
+2013-07-08 00:11:20 [INFO] Preparing level "Gate"
+2013-07-08 00:11:20 [INFO] Preparing start region for level 0 (Seed: -6763850205428449256)
+2013-07-08 00:11:21 [INFO] Preparing start region for level 1 (Seed: 5692084478635644187)
+2013-07-08 00:11:22 [INFO] Preparing start region for level 2 (Seed: 5692084478635644187)
+2013-07-08 00:11:22 [INFO] [TuxTwoLib] Enabling TuxTwoLib v1.6.1-b2
+2013-07-08 00:11:23 [INFO] [SimpleBackup] Enabling SimpleBackup v1.5
+2013-07-08 00:11:23 [INFO] [SimpleBackup] Worlds [CraftWorld{name=Gate}, CraftWorld{name=Gate_nether}, CraftWorld{name=Gate_the_end}] scheduled for backup.
+2013-07-08 00:11:23 [INFO] [SimpleBackup] Backup scheduled starting in 1.0 hours, repeat interval: 1.0 hours
+2013-07-08 00:11:23 [INFO] [SimpleBackup] Enabled.
+2013-07-08 00:11:23 [INFO] [SimplePluginManager] Enabling SimplePluginManager v1.1
+2013-07-08 00:11:23 [INFO] [SimplePluginManager] by [monster010]
+2013-07-08 00:11:23 [INFO] [WorldEdit] Enabling WorldEdit v5.5.6
+2013-07-08 00:11:23 [INFO] WEPIF: Using the Bukkit Permissions API.
+2013-07-08 00:11:23 [INFO] [MagicSigns] Enabling MagicSigns v1.8.0
+2013-07-08 00:11:23 [INFO] [MagicSigns] Vault was not found, all signs will be free!
+2013-07-08 00:11:23 [INFO] [MagicSigns] Vault was not found, permission signs will not work (Permissions in general will work though!)
+2013-07-08 00:11:23 [INFO] [NoCraft] Enabling NoCraft v1.0
+2013-07-08 00:11:23 [INFO] [PermissionsEx] Enabling PermissionsEx v1.19.6
+2013-07-08 00:11:23 [INFO] [PermissionsEx] Superperms disabled. Check "config.yml" to enable.
+2013-07-08 00:11:23 [INFO] [PermissionsEx] v1.19.6 enabled
+2013-07-08 00:11:23 [INFO] WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+2013-07-08 00:11:23 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.5-b670
+2013-07-08 00:11:23 [INFO] [Multiverse-Core] [AllPay] - Version 13.0 - hooked into Essentials Economy for Multiverse-Core v2.5-b670
+2013-07-08 00:11:24 [INFO] Preparing start region for level 3 (Seed: 1920585402)
+2013-07-08 00:11:25 [INFO] Preparing start region for level 4 (Seed: -1047402018725018594)
+2013-07-08 00:11:26 [INFO] Preparing start region for level 5 (Seed: 1920585402)
+2013-07-08 00:11:27 [INFO] Preparing start region for level 6 (Seed: 1920585402)
+2013-07-08 00:11:29 [INFO] [Multiverse-Core] 7 - World(s) loaded.
+2013-07-08 00:11:29 [INFO] [Multiverse-Core] Version 2.5-b670 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+2013-07-08 00:11:29 [INFO] [WorldGuard] Enabling WorldGuard v5.7.5
+2013-07-08 00:11:30 [INFO] [WorldGuard] (Gate) TNT ignition is PERMITTED.
+2013-07-08 00:11:30 [INFO] [WorldGuard] (Gate) Lighters are PERMITTED.
+2013-07-08 00:11:30 [INFO] [WorldGuard] (Gate) Lava fire is blocked.
+2013-07-08 00:11:30 [INFO] [WorldGuard] (Gate) Fire spread is UNRESTRICTED.
+2013-07-08 00:11:30 [INFO] [WorldGuard] Loaded configuration for world 'Gate'
+2013-07-08 00:11:30 [INFO] [WorldGuard] (Gate_nether) TNT ignition is PERMITTED.
+2013-07-08 00:11:30 [INFO] [WorldGuard] (Gate_nether) Lighters are PERMITTED.
+2013-07-08 00:11:30 [INFO] [WorldGuard] (Gate_nether) Lava fire is blocked.
+2013-07-08 00:11:30 [INFO] [WorldGuard] (Gate_nether) Fire spread is UNRESTRICTED.
+2013-07-08 00:11:30 [INFO] [WorldGuard] Loaded configuration for world 'Gate_nether'
+2013-07-08 00:11:30 [INFO] [WorldGuard] (Gate_the_end) TNT ignition is PERMITTED.
+2013-07-08 00:11:30 [INFO] [WorldGuard] (Gate_the_end) Lighters are PERMITTED.
+2013-07-08 00:11:30 [INFO] [WorldGuard] (Gate_the_end) Lava fire is blocked.
+2013-07-08 00:11:30 [INFO] [WorldGuard] (Gate_the_end) Fire spread is UNRESTRICTED.
+2013-07-08 00:11:30 [INFO] [WorldGuard] Loaded configuration for world 'Gate_the_end'
+2013-07-08 00:11:30 [INFO] [WorldGuard] (CTW2) TNT ignition is PERMITTED.
+2013-07-08 00:11:30 [INFO] [WorldGuard] (CTW2) Lighters are PERMITTED.
+2013-07-08 00:11:30 [INFO] [WorldGuard] (CTW2) Lava fire is blocked.
+2013-07-08 00:11:30 [INFO] [WorldGuard] (CTW2) Fire spread is UNRESTRICTED.
+2013-07-08 00:11:30 [INFO] [WorldGuard] Loaded configuration for world 'CTW2'
+2013-07-08 00:11:30 [INFO] [WorldGuard] (Creative) TNT ignition is PERMITTED.
+2013-07-08 00:11:30 [INFO] [WorldGuard] (Creative) Lighters are PERMITTED.
+2013-07-08 00:11:30 [INFO] [WorldGuard] (Creative) Lava fire is blocked.
+2013-07-08 00:11:30 [INFO] [WorldGuard] (Creative) Fire spread is UNRESTRICTED.
+2013-07-08 00:11:30 [INFO] [WorldGuard] Loaded configuration for world 'Creative'
+2013-07-08 00:11:30 [INFO] [WorldGuard] (CTWH) TNT ignition is PERMITTED.
+2013-07-08 00:11:30 [INFO] [WorldGuard] (CTWH) Lighters are PERMITTED.
+2013-07-08 00:11:30 [INFO] [WorldGuard] (CTWH) Lava fire is blocked.
+2013-07-08 00:11:30 [INFO] [WorldGuard] (CTWH) Fire spread is UNRESTRICTED.
+2013-07-08 00:11:30 [INFO] [WorldGuard] Loaded configuration for world 'CTWH'
+2013-07-08 00:11:30 [INFO] [WorldGuard] (CTW) TNT ignition is PERMITTED.
+2013-07-08 00:11:30 [INFO] [WorldGuard] (CTW) Lighters are PERMITTED.
+2013-07-08 00:11:30 [INFO] [WorldGuard] (CTW) Lava fire is blocked.
+2013-07-08 00:11:30 [INFO] [WorldGuard] (CTW) Fire spread is UNRESTRICTED.
+2013-07-08 00:11:30 [INFO] [WorldGuard] Loaded configuration for world 'CTW'
+2013-07-08 00:11:30 [INFO] [WorldGuard] 0 regions loaded for 'Gate'
+2013-07-08 00:11:30 [INFO] [WorldGuard] 0 regions loaded for 'Gate_nether'
+2013-07-08 00:11:30 [INFO] [WorldGuard] 0 regions loaded for 'Gate_the_end'
+2013-07-08 00:11:30 [INFO] [WorldGuard] 0 regions loaded for 'CTW2'
+2013-07-08 00:11:30 [INFO] [WorldGuard] 0 regions loaded for 'Creative'
+2013-07-08 00:11:30 [INFO] [WorldGuard] 0 regions loaded for 'CTWH'
+2013-07-08 00:11:30 [INFO] [WorldGuard] 3 regions loaded for 'CTW'
+2013-07-08 00:11:30 [INFO] [AlwaysDay] Enabling AlwaysDay v2.0
+2013-07-08 00:11:30 [INFO] [AlwaysDay] AlwaysDay v2.0 is now enabled.
+2013-07-08 00:11:30 [INFO] [Sign Edit] Enabling Sign Edit v0.3
+2013-07-08 00:11:30 [INFO] [Sign Edit] Alls languages can be found here : http://dev.bukkit.org/server-mods/sign-edit/localization/.
+2013-07-08 00:11:30 [INFO] [JoinFull] Enabling JoinFull v1.1
+2013-07-08 00:11:30 [INFO] Joinfull Has Successfully ENABLED!
+2013-07-08 00:11:30 [INFO] [VoteCommand] Enabling VoteCommand v1.0
+2013-07-08 00:11:30 [INFO] Enabled VoteCommand.
+2013-07-08 00:11:30 [INFO] [OpenInv] Enabling OpenInv v2.0.4
+2013-07-08 00:11:30 [INFO] [AdvancedBans] Enabling AdvancedBans v0.81
+2013-07-08 00:11:30 [INFO] [NametagEdit] Enabling NametagEdit v1.8
+2013-07-08 00:11:30 [INFO] [NukeChat] Enabling NukeChat v13.4
+2013-07-08 00:11:30 [WARNING] [NukeChat] ==============================
+2013-07-08 00:11:30 [WARNING] [NukeChat] ERROR: NukeChat.jar is disabled
+2013-07-08 00:11:30 [WARNING] [NukeChat] because Vault.jar plugin is not
+2013-07-08 00:11:30 [WARNING] [NukeChat] intalled! Please install for it
+2013-07-08 00:11:30 [WARNING] [NukeChat] to be enabled!
+2013-07-08 00:11:30 [WARNING] [NukeChat] ==============================
+2013-07-08 00:11:30 [INFO] [NukeChat] Disabling NukeChat v13.4
+2013-07-08 00:11:30 [INFO] [NukeChat] Nuke's plugin is now disabled!
+2013-07-08 00:11:32 [INFO] [Fake Leave] Enabling Fake Leave v12.0
+2013-07-08 00:11:32 [INFO] Fake Leave Version 12.0 Me am better
+2013-07-08 00:11:32 [INFO] [Essentials] Enabling Essentials vPre2.11.1.2
+2013-07-08 00:11:33 [INFO] Essentials: Using PermissionsEx based permissions.
+2013-07-08 00:11:33 [INFO] [EssentialsProtect] Enabling EssentialsProtect vPre2.11.1.2
+2013-07-08 00:11:33 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn vPre2.11.1.2
+2013-07-08 00:11:33 [INFO] [Multiverse-Inventories] Enabling Multiverse-Inventories v2.5-b357
+2013-07-08 00:11:34 [INFO] [Multiverse-Inventories] The following worlds for group 'Survival' are not loaded: Survival, Survival_the_end, Survival_nether
+2013-07-08 00:11:34 [INFO] [Multiverse-Inventories] The following worlds for group 'SurvivalOld' are not loaded: SurvivalOld, SurvivalOld_the_end, SurvivalOld_nether
+2013-07-08 00:11:34 [INFO] [Multiverse-Inventories 2.5-b357] enabled.
+2013-07-08 00:11:34 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b665
+2013-07-08 00:11:34 [INFO] [Multiverse-NetherPortals] - Version 2.5-b665 Enabled - By Rigby and fernferret
+2013-07-08 00:11:35 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild vPre2.11.1.2
+2013-07-08 00:11:35 [INFO] [EssentialsChat] Enabling EssentialsChat vPre2.11.1.2
+2013-07-08 00:11:44 [INFO] Done (23.973s)! For help, type "help" or "?"
+2013-07-08 00:11:44 [INFO] Starting GS4 status listener
+2013-07-08 00:11:44 [INFO] Query running on 0.0.0.0:25568
+2013-07-08 00:11:44 [INFO] [NametagEdit] Hooked into PermissionsEx!
+2013-07-08 00:12:44 [INFO] CONSOLE: Stopping the server..[m
+2013-07-08 00:12:44 [INFO] Stopping server
+2013-07-08 00:12:44 [INFO] [EssentialsChat] Disabling EssentialsChat vPre2.11.1.2
+2013-07-08 00:12:44 [INFO] [EssentialsAntiBuild] Disabling EssentialsAntiBuild vPre2.11.1.2
+2013-07-08 00:12:44 [INFO] [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b665
+2013-07-08 00:12:44 [INFO] [Multiverse-NetherPortals] - Disabled
+2013-07-08 00:12:44 [INFO] [Multiverse-Inventories] Disabling Multiverse-Inventories v2.5-b357
+2013-07-08 00:12:44 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn vPre2.11.1.2
+2013-07-08 00:12:44 [INFO] [EssentialsProtect] Disabling EssentialsProtect vPre2.11.1.2
+2013-07-08 00:12:44 [INFO] [Essentials] Disabling Essentials vPre2.11.1.2
+2013-07-08 00:12:44 [INFO] [Fake Leave] Disabling Fake Leave v12.0
+2013-07-08 00:12:44 [INFO] Fake Leaveon nos it broke
+2013-07-08 00:12:44 [INFO] [NametagEdit] Disabling NametagEdit v1.8
+2013-07-08 00:12:44 [INFO] [AdvancedBans] Disabling AdvancedBans v0.81
+2013-07-08 00:12:44 [INFO] AdvancedBans version 0.81 is disabled!
+2013-07-08 00:12:44 [INFO] [OpenInv] Disabling OpenInv v2.0.4
+2013-07-08 00:12:44 [INFO] [VoteCommand] Disabling VoteCommand v1.0
+2013-07-08 00:12:44 [INFO] Disabled VoteCommand.
+2013-07-08 00:12:44 [INFO] [JoinFull] Disabling JoinFull v1.1
+2013-07-08 00:12:44 [INFO] Joinfull Has Successfully DISABLED!
+2013-07-08 00:12:44 [INFO] [Sign Edit] Disabling Sign Edit v0.3
+2013-07-08 00:12:44 [INFO] [AlwaysDay] Disabling AlwaysDay v2.0
+2013-07-08 00:12:44 [INFO] [AlwaysDay] AlwaysDay v2.0 is now disabled.
+2013-07-08 00:12:44 [INFO] [WorldGuard] Disabling WorldGuard v5.7.5
+2013-07-08 00:12:44 [INFO] [Multiverse-Core] Disabling Multiverse-Core v2.5-b670
+2013-07-08 00:12:44 [INFO] [PermissionsEx] Disabling PermissionsEx v1.19.6
+2013-07-08 00:12:44 [INFO] WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+2013-07-08 00:12:44 [INFO] Permissions file successfully reloaded
+2013-07-08 00:12:44 [INFO] [PermissionsEx] v1.19.6 disabled successfully.
+2013-07-08 00:12:44 [INFO] [NoCraft] Disabling NoCraft v1.0
+2013-07-08 00:12:44 [INFO] [ServerInfoEditor] Disabling ServerInfoEditor v1.0
+2013-07-08 00:12:44 [INFO] [ServerInfoEditor] ServerInfoEditor Has Been disabled!
+2013-07-08 00:12:44 [INFO] [MagicSigns] Disabling MagicSigns v1.8.0
+2013-07-08 00:12:44 [INFO] [WorldEdit] Disabling WorldEdit v5.5.6
+2013-07-08 00:12:44 [INFO] [SimplePluginManager] Disabling SimplePluginManager v1.1
+2013-07-08 00:12:44 [INFO] [SimpleBackup] Disabling SimpleBackup v1.5
+2013-07-08 00:12:44 [INFO] [SimpleBackup] Disabled SimpleBackup
+2013-07-08 00:12:44 [INFO] [TuxTwoLib] Disabling TuxTwoLib v1.6.1-b2
+2013-07-08 00:12:44 [WARNING] DSCT: Socket closed
+2013-07-08 00:12:44 [INFO] Closing listening thread
+2013-07-08 00:12:44 [INFO] Saving players
+2013-07-08 00:12:44 [INFO] Saving worlds
+2013-07-08 00:12:44 [INFO] Saving chunks for level 'Gate'/Overworld
+2013-07-08 00:12:44 [INFO] Saving chunks for level 'Gate_nether'/Nether
+2013-07-08 00:12:44 [INFO] Saving chunks for level 'Gate_the_end'/The End
+2013-07-08 00:12:44 [INFO] Saving chunks for level 'CTW2'/Overworld
+2013-07-08 00:12:44 [INFO] Saving chunks for level 'Creative'/Overworld
+2013-07-08 00:12:44 [INFO] Saving chunks for level 'CTWH'/Overworld
+2013-07-08 00:12:44 [INFO] Saving chunks for level 'CTW'/Overworld
+2013-07-08 00:23:56 [INFO] Starting minecraft server version 1.6.1
+2013-07-08 00:23:56 [INFO] Loading properties
+2013-07-08 00:23:56 [INFO] Default game type: SURVIVAL
+2013-07-08 00:23:56 [INFO] Generating keypair
+2013-07-08 00:23:56 [INFO] Starting Minecraft server on *:25568
+2013-07-08 00:23:57 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.2-R1.0-16-g1d933a4-b2805jnks (MC: 1.6.1) (Implementing API version 1.6.1-R0.1-SNAPSHOT)
+2013-07-08 00:23:57 [INFO] [PermissionsEx] sql backend registered!
+2013-07-08 00:23:57 [INFO] [PermissionsEx] file backend registered!
+2013-07-08 00:23:57 [INFO] [PermissionsEx] PermissionEx plugin initialized.
+2013-07-08 00:23:58 [INFO] [TuxTwoLib] Loading TuxTwoLib v1.6.1-b2
+2013-07-08 00:23:58 [INFO] [SimpleBackup] Loading SimpleBackup v1.5
+2013-07-08 00:23:58 [INFO] [SimplePluginManager] Loading SimplePluginManager v1.1
+2013-07-08 00:23:58 [INFO] [WorldEdit] Loading WorldEdit v5.5.6
+2013-07-08 00:23:58 [INFO] [ServerInfoEditor] Loading ServerInfoEditor v1.0
+2013-07-08 00:23:58 [INFO] [NoCraft] Loading NoCraft v1.0
+2013-07-08 00:23:58 [INFO] [Vault] Loading Vault v1.2.25-b320
+2013-07-08 00:23:58 [INFO] [PermissionsEx] Loading PermissionsEx v1.19.6
+2013-07-08 00:23:58 [INFO] [PermissionsEx] Initializing file backend
+2013-07-08 00:23:58 [INFO] Permissions file successfully reloaded
+2013-07-08 00:23:58 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.5-b670
+2013-07-08 00:23:58 [INFO] ----- Bukkit Auto Updater -----
+2013-07-08 00:23:58 [INFO] It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-07-08 00:23:58 [INFO] If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+2013-07-08 00:23:58 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-07-08 00:23:58 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-07-08 00:23:58 [INFO] ----- ------------------- -----
+2013-07-08 00:23:58 [INFO] [WorldGuard] Loading WorldGuard v5.7.5
+2013-07-08 00:23:58 [INFO] [AlwaysDay] Loading AlwaysDay v2.0
+2013-07-08 00:23:58 [INFO] [Sign Edit] Loading Sign Edit v0.3
+2013-07-08 00:23:58 [INFO] [JoinFull] Loading JoinFull v1.1
+2013-07-08 00:23:58 [INFO] [VoteCommand] Loading VoteCommand v1.0
+2013-07-08 00:23:58 [INFO] [OpenInv] Loading OpenInv v2.0.4
+2013-07-08 00:23:58 [INFO] [AdvancedBans] Loading AdvancedBans v0.81
+2013-07-08 00:23:58 [INFO] [NametagEdit] Loading NametagEdit v1.8
+2013-07-08 00:23:58 [INFO] [NukeChat] Loading NukeChat v13.4
+2013-07-08 00:23:58 [INFO] [Fake Leave] Loading Fake Leave v12.0
+2013-07-08 00:23:58 [INFO] [Essentials] Loading Essentials vPre2.11.1.2
+2013-07-08 00:23:58 [INFO] [EssentialsProtect] Loading EssentialsProtect vPre2.11.1.2
+2013-07-08 00:23:58 [INFO] [EssentialsSpawn] Loading EssentialsSpawn vPre2.11.1.2
+2013-07-08 00:23:58 [INFO] [Multiverse-Inventories] Loading Multiverse-Inventories v2.5-b357
+2013-07-08 00:23:58 [INFO] [MagicSigns] Loading MagicSigns v1.8.0
+2013-07-08 00:23:58 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b665
+2013-07-08 00:23:58 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild vPre2.11.1.2
+2013-07-08 00:23:58 [INFO] [EssentialsChat] Loading EssentialsChat vPre2.11.1.2
+2013-07-08 00:23:58 [INFO] [ServerInfoEditor] Enabling ServerInfoEditor v1.0
+2013-07-08 00:23:58 [INFO] [ServerInfoEditor] ServerInfoEditor has been enabled!
+2013-07-08 00:23:58 [INFO] [Vault] Enabling Vault v1.2.25-b320
+2013-07-08 00:23:58 [INFO] [Vault][Economy] Essentials Economy found: Waiting
+2013-07-08 00:23:58 [INFO] [Vault][Permission] PermissionsEx found: Waiting
+2013-07-08 00:23:58 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2013-07-08 00:23:58 [INFO] [Vault][Chat] PermissionsEx found: Waiting
+2013-07-08 00:23:58 [INFO] [Vault] Enabled Version 1.2.25-b320
+2013-07-08 00:23:58 [INFO] [Vault][Economy] Essentials Economy hooked.
+2013-07-08 00:23:58 [INFO] [Vault][Permission] PermissionsEx hooked.
+2013-07-08 00:23:58 [INFO] Preparing level "Gate"
+2013-07-08 00:23:58 [INFO] Preparing start region for level 0 (Seed: -6763850205428449256)
+2013-07-08 00:23:59 [INFO] Preparing spawn area: 70%
+2013-07-08 00:24:00 [INFO] Preparing start region for level 1 (Seed: 5692084478635644187)
+2013-07-08 00:24:00 [INFO] Preparing start region for level 2 (Seed: 5692084478635644187)
+2013-07-08 00:24:01 [INFO] [TuxTwoLib] Enabling TuxTwoLib v1.6.1-b2
+2013-07-08 00:24:01 [INFO] [SimpleBackup] Enabling SimpleBackup v1.5
+2013-07-08 00:24:01 [INFO] [SimpleBackup] Worlds [CraftWorld{name=Gate}, CraftWorld{name=Gate_nether}, CraftWorld{name=Gate_the_end}] scheduled for backup.
+2013-07-08 00:24:01 [INFO] [SimpleBackup] Backup scheduled starting in 1.0 hours, repeat interval: 1.0 hours
+2013-07-08 00:24:01 [INFO] [SimpleBackup] Enabled.
+2013-07-08 00:24:01 [INFO] [SimplePluginManager] Enabling SimplePluginManager v1.1
+2013-07-08 00:24:01 [INFO] [SimplePluginManager] by [monster010]
+2013-07-08 00:24:01 [INFO] [WorldEdit] Enabling WorldEdit v5.5.6
+2013-07-08 00:24:01 [INFO] WEPIF: Using the Bukkit Permissions API.
+2013-07-08 00:24:01 [INFO] [NoCraft] Enabling NoCraft v1.0
+2013-07-08 00:24:01 [INFO] [PermissionsEx] Enabling PermissionsEx v1.19.6
+2013-07-08 00:24:01 [INFO] [PermissionsEx] Superperms disabled. Check "config.yml" to enable.
+2013-07-08 00:24:02 [INFO] [PermissionsEx] v1.19.6 enabled
+2013-07-08 00:24:02 [INFO] WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+2013-07-08 00:24:02 [INFO] [Vault][Chat] PermissionsEx_Chat hooked.
+2013-07-08 00:24:02 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.5-b670
+2013-07-08 00:24:02 [INFO] [Multiverse-Core] [AllPay] - Version 13.0 - hooked into Essentials Economy for Multiverse-Core v2.5-b670
+2013-07-08 00:24:02 [INFO] Preparing start region for level 3 (Seed: 1920585402)
+2013-07-08 00:24:03 [INFO] Preparing start region for level 4 (Seed: -1047402018725018594)
+2013-07-08 00:24:04 [INFO] Preparing start region for level 5 (Seed: 1920585402)
+2013-07-08 00:24:06 [INFO] Preparing start region for level 6 (Seed: 1920585402)
+2013-07-08 00:24:07 [INFO] [Multiverse-Core] 7 - World(s) loaded.
+2013-07-08 00:24:08 [INFO] [Multiverse-Core] Version 2.5-b670 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+2013-07-08 00:24:08 [INFO] [WorldGuard] Enabling WorldGuard v5.7.5
+2013-07-08 00:24:08 [INFO] [WorldGuard] (Gate) TNT ignition is PERMITTED.
+2013-07-08 00:24:08 [INFO] [WorldGuard] (Gate) Lighters are PERMITTED.
+2013-07-08 00:24:08 [INFO] [WorldGuard] (Gate) Lava fire is blocked.
+2013-07-08 00:24:08 [INFO] [WorldGuard] (Gate) Fire spread is UNRESTRICTED.
+2013-07-08 00:24:08 [INFO] [WorldGuard] Loaded configuration for world 'Gate'
+2013-07-08 00:24:08 [INFO] [WorldGuard] (Gate_nether) TNT ignition is PERMITTED.
+2013-07-08 00:24:08 [INFO] [WorldGuard] (Gate_nether) Lighters are PERMITTED.
+2013-07-08 00:24:08 [INFO] [WorldGuard] (Gate_nether) Lava fire is blocked.
+2013-07-08 00:24:08 [INFO] [WorldGuard] (Gate_nether) Fire spread is UNRESTRICTED.
+2013-07-08 00:24:08 [INFO] [WorldGuard] Loaded configuration for world 'Gate_nether'
+2013-07-08 00:24:08 [INFO] [WorldGuard] (Gate_the_end) TNT ignition is PERMITTED.
+2013-07-08 00:24:08 [INFO] [WorldGuard] (Gate_the_end) Lighters are PERMITTED.
+2013-07-08 00:24:08 [INFO] [WorldGuard] (Gate_the_end) Lava fire is blocked.
+2013-07-08 00:24:08 [INFO] [WorldGuard] (Gate_the_end) Fire spread is UNRESTRICTED.
+2013-07-08 00:24:08 [INFO] [WorldGuard] Loaded configuration for world 'Gate_the_end'
+2013-07-08 00:24:08 [INFO] [WorldGuard] (CTW2) TNT ignition is PERMITTED.
+2013-07-08 00:24:08 [INFO] [WorldGuard] (CTW2) Lighters are PERMITTED.
+2013-07-08 00:24:08 [INFO] [WorldGuard] (CTW2) Lava fire is blocked.
+2013-07-08 00:24:08 [INFO] [WorldGuard] (CTW2) Fire spread is UNRESTRICTED.
+2013-07-08 00:24:08 [INFO] [WorldGuard] Loaded configuration for world 'CTW2'
+2013-07-08 00:24:08 [INFO] [WorldGuard] (Creative) TNT ignition is PERMITTED.
+2013-07-08 00:24:08 [INFO] [WorldGuard] (Creative) Lighters are PERMITTED.
+2013-07-08 00:24:08 [INFO] [WorldGuard] (Creative) Lava fire is blocked.
+2013-07-08 00:24:08 [INFO] [WorldGuard] (Creative) Fire spread is UNRESTRICTED.
+2013-07-08 00:24:08 [INFO] [WorldGuard] Loaded configuration for world 'Creative'
+2013-07-08 00:24:08 [INFO] [WorldGuard] (CTWH) TNT ignition is PERMITTED.
+2013-07-08 00:24:08 [INFO] [WorldGuard] (CTWH) Lighters are PERMITTED.
+2013-07-08 00:24:08 [INFO] [WorldGuard] (CTWH) Lava fire is blocked.
+2013-07-08 00:24:08 [INFO] [WorldGuard] (CTWH) Fire spread is UNRESTRICTED.
+2013-07-08 00:24:08 [INFO] [WorldGuard] Loaded configuration for world 'CTWH'
+2013-07-08 00:24:08 [INFO] [WorldGuard] (CTW) TNT ignition is PERMITTED.
+2013-07-08 00:24:08 [INFO] [WorldGuard] (CTW) Lighters are PERMITTED.
+2013-07-08 00:24:08 [INFO] [WorldGuard] (CTW) Lava fire is blocked.
+2013-07-08 00:24:08 [INFO] [WorldGuard] (CTW) Fire spread is UNRESTRICTED.
+2013-07-08 00:24:08 [INFO] [WorldGuard] Loaded configuration for world 'CTW'
+2013-07-08 00:24:08 [INFO] [WorldGuard] 0 regions loaded for 'Gate'
+2013-07-08 00:24:08 [INFO] [WorldGuard] 0 regions loaded for 'Gate_nether'
+2013-07-08 00:24:08 [INFO] [WorldGuard] 0 regions loaded for 'Gate_the_end'
+2013-07-08 00:24:08 [INFO] [WorldGuard] 0 regions loaded for 'CTW2'
+2013-07-08 00:24:08 [INFO] [WorldGuard] 0 regions loaded for 'Creative'
+2013-07-08 00:24:08 [INFO] [WorldGuard] 0 regions loaded for 'CTWH'
+2013-07-08 00:24:08 [INFO] [WorldGuard] 3 regions loaded for 'CTW'
+2013-07-08 00:24:08 [INFO] [AlwaysDay] Enabling AlwaysDay v2.0
+2013-07-08 00:24:08 [INFO] [AlwaysDay] AlwaysDay v2.0 is now enabled.
+2013-07-08 00:24:08 [INFO] [Sign Edit] Enabling Sign Edit v0.3
+2013-07-08 00:24:08 [INFO] [Sign Edit] Alls languages can be found here : http://dev.bukkit.org/server-mods/sign-edit/localization/.
+2013-07-08 00:24:08 [INFO] [JoinFull] Enabling JoinFull v1.1
+2013-07-08 00:24:08 [INFO] Joinfull Has Successfully ENABLED!
+2013-07-08 00:24:08 [INFO] [VoteCommand] Enabling VoteCommand v1.0
+2013-07-08 00:24:08 [INFO] Enabled VoteCommand.
+2013-07-08 00:24:08 [INFO] [OpenInv] Enabling OpenInv v2.0.4
+2013-07-08 00:24:08 [INFO] [AdvancedBans] Enabling AdvancedBans v0.81
+2013-07-08 00:24:09 [INFO] [NametagEdit] Enabling NametagEdit v1.8
+2013-07-08 00:24:09 [INFO] [NukeChat] Enabling NukeChat v13.4
+2013-07-08 00:24:09 [INFO] [NukeChat] Nuke's plugin is now enabled!
+2013-07-08 00:24:09 [INFO] [NukeChat] Loading Configuration file...
+2013-07-08 00:24:09 [INFO] [NukeChat] Loading nickname data...
+2013-07-08 00:24:09 [INFO] [NukeChat] Nickname data loaded.
+2013-07-08 00:24:09 [INFO] [NukeChat] Configuration file reloaded.
+2013-07-08 00:24:12 [INFO] [Fake Leave] Enabling Fake Leave v12.0
+2013-07-08 00:24:12 [INFO] Fake Leave Version 12.0 Me am better
+2013-07-08 00:24:12 [INFO] [Essentials] Enabling Essentials vPre2.11.1.2
+2013-07-08 00:24:13 [INFO] Essentials: Using PermissionsEx based permissions.
+2013-07-08 00:24:13 [INFO] [EssentialsProtect] Enabling EssentialsProtect vPre2.11.1.2
+2013-07-08 00:24:13 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn vPre2.11.1.2
+2013-07-08 00:24:13 [INFO] [Multiverse-Inventories] Enabling Multiverse-Inventories v2.5-b357
+2013-07-08 00:24:14 [INFO] [Multiverse-Inventories] The following worlds for group 'Survival' are not loaded: Survival, Survival_the_end, Survival_nether
+2013-07-08 00:24:14 [INFO] [Multiverse-Inventories] The following worlds for group 'SurvivalOld' are not loaded: SurvivalOld, SurvivalOld_the_end, SurvivalOld_nether
+2013-07-08 00:24:14 [INFO] [Multiverse-Inventories 2.5-b357] enabled.
+2013-07-08 00:24:14 [INFO] [MagicSigns] Enabling MagicSigns v1.8.0
+2013-07-08 00:24:14 [INFO] [MagicSigns] Using Vault for economy.
+2013-07-08 00:24:14 [INFO] [MagicSigns] Using Vault for permissions.
+2013-07-08 00:24:14 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b665
+2013-07-08 00:24:14 [INFO] [Multiverse-NetherPortals] - Version 2.5-b665 Enabled - By Rigby and fernferret
+2013-07-08 00:24:15 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild vPre2.11.1.2
+2013-07-08 00:24:15 [INFO] [EssentialsChat] Enabling EssentialsChat vPre2.11.1.2
+2013-07-08 00:24:29 [INFO] Starting minecraft server version 1.6.1
+2013-07-08 00:24:29 [INFO] Loading properties
+2013-07-08 00:24:29 [INFO] Default game type: SURVIVAL
+2013-07-08 00:24:29 [INFO] Generating keypair
+2013-07-08 00:24:30 [INFO] Starting Minecraft server on *:25568
+2013-07-08 00:24:30 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.2-R1.0-16-g1d933a4-b2805jnks (MC: 1.6.1) (Implementing API version 1.6.1-R0.1-SNAPSHOT)
+2013-07-08 00:24:30 [INFO] [PermissionsEx] sql backend registered!
+2013-07-08 00:24:30 [INFO] [PermissionsEx] file backend registered!
+2013-07-08 00:24:30 [INFO] [PermissionsEx] PermissionEx plugin initialized.
+2013-07-08 00:24:31 [INFO] [TuxTwoLib] Loading TuxTwoLib v1.6.1-b2
+2013-07-08 00:24:31 [INFO] [SimpleBackup] Loading SimpleBackup v1.5
+2013-07-08 00:24:31 [INFO] [SimplePluginManager] Loading SimplePluginManager v1.1
+2013-07-08 00:24:31 [INFO] [WorldEdit] Loading WorldEdit v5.5.6
+2013-07-08 00:24:31 [INFO] [ServerInfoEditor] Loading ServerInfoEditor v1.0
+2013-07-08 00:24:31 [INFO] [NoCraft] Loading NoCraft v1.0
+2013-07-08 00:24:31 [INFO] [Vault] Loading Vault v1.2.25-b320
+2013-07-08 00:24:31 [INFO] [PermissionsEx] Loading PermissionsEx v1.19.6
+2013-07-08 00:24:31 [INFO] [PermissionsEx] Initializing file backend
+2013-07-08 00:24:31 [INFO] Permissions file successfully reloaded
+2013-07-08 00:24:31 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.5-b670
+2013-07-08 00:24:31 [INFO] [WorldGuard] Loading WorldGuard v5.7.5
+2013-07-08 00:24:31 [INFO] [AlwaysDay] Loading AlwaysDay v2.0
+2013-07-08 00:24:31 [INFO] [Sign Edit] Loading Sign Edit v0.3
+2013-07-08 00:24:31 [INFO] [JoinFull] Loading JoinFull v1.1
+2013-07-08 00:24:31 [INFO] [VoteCommand] Loading VoteCommand v1.0
+2013-07-08 00:24:31 [INFO] [OpenInv] Loading OpenInv v2.0.4
+2013-07-08 00:24:31 [INFO] [AdvancedBans] Loading AdvancedBans v0.81
+2013-07-08 00:24:31 [INFO] [NametagEdit] Loading NametagEdit v1.8
+2013-07-08 00:24:31 [INFO] [NukeChat] Loading NukeChat v13.4
+2013-07-08 00:24:31 [INFO] [Fake Leave] Loading Fake Leave v12.0
+2013-07-08 00:24:31 [INFO] [Essentials] Loading Essentials vPre2.11.1.2
+2013-07-08 00:24:31 [INFO] [EssentialsProtect] Loading EssentialsProtect vPre2.11.1.2
+2013-07-08 00:24:31 [INFO] [EssentialsSpawn] Loading EssentialsSpawn vPre2.11.1.2
+2013-07-08 00:24:31 [INFO] [Multiverse-Inventories] Loading Multiverse-Inventories v2.5-b357
+2013-07-08 00:24:31 [INFO] [MagicSigns] Loading MagicSigns v1.8.0
+2013-07-08 00:24:31 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b665
+2013-07-08 00:24:31 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild vPre2.11.1.2
+2013-07-08 00:24:31 [INFO] [EssentialsChat] Loading EssentialsChat vPre2.11.1.2
+2013-07-08 00:24:31 [INFO] [ServerInfoEditor] Enabling ServerInfoEditor v1.0
+2013-07-08 00:24:31 [INFO] [ServerInfoEditor] ServerInfoEditor has been enabled!
+2013-07-08 00:24:31 [INFO] [Vault] Enabling Vault v1.2.25-b320
+2013-07-08 00:24:31 [INFO] [Vault][Economy] Essentials Economy found: Waiting
+2013-07-08 00:24:31 [INFO] [Vault][Permission] PermissionsEx found: Waiting
+2013-07-08 00:24:31 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2013-07-08 00:24:31 [INFO] [Vault][Chat] PermissionsEx found: Waiting
+2013-07-08 00:24:31 [INFO] ----- Bukkit Auto Updater -----
+2013-07-08 00:24:31 [INFO] It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-07-08 00:24:31 [INFO] If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+2013-07-08 00:24:31 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-07-08 00:24:31 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-07-08 00:24:31 [INFO] ----- ------------------- -----
+2013-07-08 00:24:31 [INFO] [Vault] Enabled Version 1.2.25-b320
+2013-07-08 00:24:31 [INFO] [Vault][Economy] Essentials Economy hooked.
+2013-07-08 00:24:31 [INFO] [Vault][Permission] PermissionsEx hooked.
+2013-07-08 00:24:31 [INFO] Preparing level "Gate"
+2013-07-08 00:24:31 [INFO] Preparing start region for level 0 (Seed: -6763850205428449256)
+2013-07-08 00:24:32 [INFO] Preparing start region for level 1 (Seed: 5692084478635644187)
+2013-07-08 00:24:32 [INFO] Preparing start region for level 2 (Seed: 5692084478635644187)
+2013-07-08 00:24:33 [INFO] [TuxTwoLib] Enabling TuxTwoLib v1.6.1-b2
+2013-07-08 00:24:33 [INFO] [SimpleBackup] Enabling SimpleBackup v1.5
+2013-07-08 00:24:33 [INFO] [SimpleBackup] Worlds [CraftWorld{name=Gate}, CraftWorld{name=Gate_nether}, CraftWorld{name=Gate_the_end}] scheduled for backup.
+2013-07-08 00:24:33 [INFO] [SimpleBackup] Backup scheduled starting in 1.0 hours, repeat interval: 1.0 hours
+2013-07-08 00:24:33 [INFO] [SimpleBackup] Enabled.
+2013-07-08 00:24:33 [INFO] [SimplePluginManager] Enabling SimplePluginManager v1.1
+2013-07-08 00:24:33 [INFO] [SimplePluginManager] by [monster010]
+2013-07-08 00:24:33 [INFO] [WorldEdit] Enabling WorldEdit v5.5.6
+2013-07-08 00:24:33 [INFO] WEPIF: Using the Bukkit Permissions API.
+2013-07-08 00:24:34 [INFO] [NoCraft] Enabling NoCraft v1.0
+2013-07-08 00:24:34 [INFO] [PermissionsEx] Enabling PermissionsEx v1.19.6
+2013-07-08 00:24:34 [INFO] [PermissionsEx] Superperms disabled. Check "config.yml" to enable.
+2013-07-08 00:24:34 [INFO] [PermissionsEx] v1.19.6 enabled
+2013-07-08 00:24:34 [INFO] WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+2013-07-08 00:24:34 [INFO] [Vault][Chat] PermissionsEx_Chat hooked.
+2013-07-08 00:24:34 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.5-b670
+2013-07-08 00:24:34 [INFO] [Multiverse-Core] [AllPay] - Version 13.0 - hooked into Essentials Economy for Multiverse-Core v2.5-b670
+2013-07-08 00:24:34 [INFO] Preparing start region for level 3 (Seed: 1920585402)
+2013-07-08 00:24:35 [INFO] Preparing start region for level 4 (Seed: -1047402018725018594)
+2013-07-08 00:24:36 [INFO] Preparing start region for level 5 (Seed: 1920585402)
+2013-07-08 00:24:37 [INFO] Preparing start region for level 6 (Seed: 1920585402)
+2013-07-08 00:24:39 [INFO] [Multiverse-Core] 7 - World(s) loaded.
+2013-07-08 00:24:39 [INFO] [Multiverse-Core] Version 2.5-b670 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+2013-07-08 00:24:39 [INFO] [WorldGuard] Enabling WorldGuard v5.7.5
+2013-07-08 00:24:39 [INFO] [WorldGuard] (Gate) TNT ignition is PERMITTED.
+2013-07-08 00:24:39 [INFO] [WorldGuard] (Gate) Lighters are PERMITTED.
+2013-07-08 00:24:39 [INFO] [WorldGuard] (Gate) Lava fire is blocked.
+2013-07-08 00:24:39 [INFO] [WorldGuard] (Gate) Fire spread is UNRESTRICTED.
+2013-07-08 00:24:39 [INFO] [WorldGuard] Loaded configuration for world 'Gate'
+2013-07-08 00:24:39 [INFO] [WorldGuard] (Gate_nether) TNT ignition is PERMITTED.
+2013-07-08 00:24:39 [INFO] [WorldGuard] (Gate_nether) Lighters are PERMITTED.
+2013-07-08 00:24:39 [INFO] [WorldGuard] (Gate_nether) Lava fire is blocked.
+2013-07-08 00:24:39 [INFO] [WorldGuard] (Gate_nether) Fire spread is UNRESTRICTED.
+2013-07-08 00:24:39 [INFO] [WorldGuard] Loaded configuration for world 'Gate_nether'
+2013-07-08 00:24:39 [INFO] [WorldGuard] (Gate_the_end) TNT ignition is PERMITTED.
+2013-07-08 00:24:39 [INFO] [WorldGuard] (Gate_the_end) Lighters are PERMITTED.
+2013-07-08 00:24:39 [INFO] [WorldGuard] (Gate_the_end) Lava fire is blocked.
+2013-07-08 00:24:39 [INFO] [WorldGuard] (Gate_the_end) Fire spread is UNRESTRICTED.
+2013-07-08 00:24:39 [INFO] [WorldGuard] Loaded configuration for world 'Gate_the_end'
+2013-07-08 00:24:39 [INFO] [WorldGuard] (CTW2) TNT ignition is PERMITTED.
+2013-07-08 00:24:39 [INFO] [WorldGuard] (CTW2) Lighters are PERMITTED.
+2013-07-08 00:24:39 [INFO] [WorldGuard] (CTW2) Lava fire is blocked.
+2013-07-08 00:24:39 [INFO] [WorldGuard] (CTW2) Fire spread is UNRESTRICTED.
+2013-07-08 00:24:39 [INFO] [WorldGuard] Loaded configuration for world 'CTW2'
+2013-07-08 00:24:39 [INFO] [WorldGuard] (Creative) TNT ignition is PERMITTED.
+2013-07-08 00:24:39 [INFO] [WorldGuard] (Creative) Lighters are PERMITTED.
+2013-07-08 00:24:39 [INFO] [WorldGuard] (Creative) Lava fire is blocked.
+2013-07-08 00:24:39 [INFO] [WorldGuard] (Creative) Fire spread is UNRESTRICTED.
+2013-07-08 00:24:39 [INFO] [WorldGuard] Loaded configuration for world 'Creative'
+2013-07-08 00:24:39 [INFO] [WorldGuard] (CTWH) TNT ignition is PERMITTED.
+2013-07-08 00:24:39 [INFO] [WorldGuard] (CTWH) Lighters are PERMITTED.
+2013-07-08 00:24:39 [INFO] [WorldGuard] (CTWH) Lava fire is blocked.
+2013-07-08 00:24:39 [INFO] [WorldGuard] (CTWH) Fire spread is UNRESTRICTED.
+2013-07-08 00:24:39 [INFO] [WorldGuard] Loaded configuration for world 'CTWH'
+2013-07-08 00:24:39 [INFO] [WorldGuard] (CTW) TNT ignition is PERMITTED.
+2013-07-08 00:24:39 [INFO] [WorldGuard] (CTW) Lighters are PERMITTED.
+2013-07-08 00:24:39 [INFO] [WorldGuard] (CTW) Lava fire is blocked.
+2013-07-08 00:24:39 [INFO] [WorldGuard] (CTW) Fire spread is UNRESTRICTED.
+2013-07-08 00:24:39 [INFO] [WorldGuard] Loaded configuration for world 'CTW'
+2013-07-08 00:24:39 [INFO] [WorldGuard] 0 regions loaded for 'Gate'
+2013-07-08 00:24:39 [INFO] [WorldGuard] 0 regions loaded for 'Gate_nether'
+2013-07-08 00:24:39 [INFO] [WorldGuard] 0 regions loaded for 'Gate_the_end'
+2013-07-08 00:24:39 [INFO] [WorldGuard] 0 regions loaded for 'CTW2'
+2013-07-08 00:24:39 [INFO] [WorldGuard] 0 regions loaded for 'Creative'
+2013-07-08 00:24:39 [INFO] [WorldGuard] 0 regions loaded for 'CTWH'
+2013-07-08 00:24:39 [INFO] [WorldGuard] 3 regions loaded for 'CTW'
+2013-07-08 00:24:39 [INFO] [AlwaysDay] Enabling AlwaysDay v2.0
+2013-07-08 00:24:39 [INFO] [AlwaysDay] AlwaysDay v2.0 is now enabled.
+2013-07-08 00:24:39 [INFO] [Sign Edit] Enabling Sign Edit v0.3
+2013-07-08 00:24:39 [INFO] [Sign Edit] Alls languages can be found here : http://dev.bukkit.org/server-mods/sign-edit/localization/.
+2013-07-08 00:24:39 [INFO] [JoinFull] Enabling JoinFull v1.1
+2013-07-08 00:24:39 [INFO] Joinfull Has Successfully ENABLED!
+2013-07-08 00:24:39 [INFO] [VoteCommand] Enabling VoteCommand v1.0
+2013-07-08 00:24:39 [INFO] Enabled VoteCommand.
+2013-07-08 00:24:39 [INFO] [OpenInv] Enabling OpenInv v2.0.4
+2013-07-08 00:24:39 [INFO] [AdvancedBans] Enabling AdvancedBans v0.81
+2013-07-08 00:24:40 [INFO] [NametagEdit] Enabling NametagEdit v1.8
+2013-07-08 00:24:40 [INFO] [NukeChat] Enabling NukeChat v13.4
+2013-07-08 00:24:40 [INFO] [NukeChat] Nuke's plugin is now enabled!
+2013-07-08 00:24:40 [INFO] [NukeChat] Loading Configuration file...
+2013-07-08 00:24:40 [INFO] [NukeChat] Loading nickname data...
+2013-07-08 00:24:40 [INFO] [NukeChat] Nickname data loaded.
+2013-07-08 00:24:40 [INFO] [NukeChat] Configuration file reloaded.
+2013-07-08 00:24:42 [INFO] [Fake Leave] Enabling Fake Leave v12.0
+2013-07-08 00:24:42 [INFO] Fake Leave Version 12.0 Me am better
+2013-07-08 00:24:42 [INFO] [Essentials] Enabling Essentials vPre2.11.1.2
+2013-07-08 00:24:42 [INFO] Essentials: Using PermissionsEx based permissions.
+2013-07-08 00:24:42 [INFO] [EssentialsProtect] Enabling EssentialsProtect vPre2.11.1.2
+2013-07-08 00:24:42 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn vPre2.11.1.2
+2013-07-08 00:24:42 [INFO] [Multiverse-Inventories] Enabling Multiverse-Inventories v2.5-b357
+2013-07-08 00:24:43 [INFO] [Multiverse-Inventories] The following worlds for group 'Survival' are not loaded: Survival, Survival_the_end, Survival_nether
+2013-07-08 00:24:43 [INFO] [Multiverse-Inventories] The following worlds for group 'SurvivalOld' are not loaded: SurvivalOld, SurvivalOld_the_end, SurvivalOld_nether
+2013-07-08 00:24:43 [INFO] [Multiverse-Inventories 2.5-b357] enabled.
+2013-07-08 00:24:43 [INFO] [MagicSigns] Enabling MagicSigns v1.8.0
+2013-07-08 00:24:43 [INFO] [MagicSigns] Using Vault for economy.
+2013-07-08 00:24:43 [INFO] [MagicSigns] Using Vault for permissions.
+2013-07-08 00:24:43 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b665
+2013-07-08 00:24:43 [INFO] [Multiverse-NetherPortals] - Version 2.5-b665 Enabled - By Rigby and fernferret
+2013-07-08 00:24:44 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild vPre2.11.1.2
+2013-07-08 00:24:44 [INFO] [EssentialsChat] Enabling EssentialsChat vPre2.11.1.2
+2013-07-08 00:24:53 [INFO] Done (21.736s)! For help, type "help" or "?"
+2013-07-08 00:24:53 [INFO] Starting GS4 status listener
+2013-07-08 00:24:53 [INFO] Query running on 0.0.0.0:25568
+2013-07-08 00:24:53 [INFO] [NametagEdit] Hooked into PermissionsEx!
+2013-07-08 00:25:07 [INFO] Erisyuka[/192.168.1.2:50353] logged in with entity id 175 at ([Gate] 172.35437197803353, 62.0, 215.34022760700663)
+2013-07-08 00:25:07 [SEVERE] Could not pass event PlayerJoinEvent to NukeChat v13.4
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:477)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:462)
+	at net.minecraft.server.v1_6_R1.PlayerList.c(PlayerList.java:204)
+	at net.minecraft.server.v1_6_R1.PlayerList.a(PlayerList.java:100)
+	at net.minecraft.server.v1_6_R1.PendingConnection.d(PendingConnection.java:130)
+	at net.minecraft.server.v1_6_R1.PendingConnection.c(PendingConnection.java:43)
+	at net.minecraft.server.v1_6_R1.DedicatedServerConnectionThread.a(DedicatedServerConnectionThread.java:41)
+	at net.minecraft.server.v1_6_R1.DedicatedServerConnection.b(SourceFile:29)
+	at net.minecraft.server.v1_6_R1.MinecraftServer.t(MinecraftServer.java:590)
+	at net.minecraft.server.v1_6_R1.DedicatedServer.t(DedicatedServer.java:226)
+	at net.minecraft.server.v1_6_R1.MinecraftServer.s(MinecraftServer.java:486)
+	at net.minecraft.server.v1_6_R1.MinecraftServer.run(MinecraftServer.java:419)
+	at net.minecraft.server.v1_6_R1.ThreadServerApplication.run(SourceFile:582)
+Caused by: java.util.regex.PatternSyntaxException: Unclosed character class near index 1
+[]
+ ^
+	at java.util.regex.Pattern.error(Pattern.java:1924)
+	at java.util.regex.Pattern.clazz(Pattern.java:2493)
+	at java.util.regex.Pattern.sequence(Pattern.java:2030)
+	at java.util.regex.Pattern.expr(Pattern.java:1964)
+	at java.util.regex.Pattern.compile(Pattern.java:1665)
+	at java.util.regex.Pattern.<init>(Pattern.java:1337)
+	at java.util.regex.Pattern.compile(Pattern.java:1022)
+	at java.lang.String.replaceAll(String.java:2162)
+	at com.chaoticunited.NukePublicMethods.setPlayerDisplayName(NukePublicMethods.java:264)
+	at com.chaoticunited.NukeJoinQuitEvent.onPlayerJoin(NukeJoinQuitEvent.java:34)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:425)
+	... 14 more
+2013-07-08 00:25:07 [INFO] Setting prefix/suffix for Erisyuka: �4, �0-�5sama (user)
+2013-07-08 00:25:20 [INFO] Erisyuka issued server command: /deop Erisyuka
+2013-07-08 00:25:20 [INFO] Erisyuka: De-opped Erisyuka[m
+2013-07-08 00:25:24 [INFO] Erisyuka issued server command: /stop
+2013-07-08 00:27:02 [INFO] Erisyuka issued server command: /gamemode 1
+2013-07-08 00:27:02 [WARNING] §cErisyuka §4was denied access to command.
+2013-07-08 00:27:10 [INFO] Erisyuka issued server command: /pex user Erisyuka
+2013-07-08 00:27:24 [INFO] Erisyuka issued server command: /pex
+2013-07-08 00:27:49 [INFO] CONSOLE: Opped Erisyuka[m
+2013-07-08 00:28:58 [INFO] Erisyuka issued server command: /mvtp ctw
+2013-07-08 00:29:01 [INFO] Erisyuka issued server command: /gamemode 1
+2013-07-08 00:29:18 [INFO] Erisyuka issued server command: /flyspeed fly 4
+2013-07-08 00:29:23 [WARNING] [WorldEdit] No compatible nms block class found.
+2013-07-08 00:29:38 [INFO] Erisyuka issued server command: //expand 5
+2013-07-08 00:29:44 [INFO] Erisyuka issued server command: //expand 3
+2013-07-08 00:29:51 [INFO] Erisyuka issued server command: //copy
+2013-07-08 00:29:54 [INFO] Erisyuka issued server command: /mvtp gate
+2013-07-08 00:30:00 [INFO] Erisyuka issued server command: /gamemode 1
+2013-07-08 00:30:14 [INFO] Erisyuka issued server command: //paste
+2013-07-08 00:30:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-08 00:30:25 [INFO] Erisyuka issued server command: //undo
+2013-07-08 00:30:30 [INFO] Erisyuka issued server command: //rotate 90
+2013-07-08 00:30:32 [INFO] Erisyuka issued server command: //paste
+2013-07-08 00:30:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-08 00:30:45 [INFO] Erisyuka issued server command: //undo
+2013-07-08 00:30:54 [INFO] Erisyuka issued server command: //rotate 180\
+2013-07-08 00:30:56 [INFO] Erisyuka issued server command: //rotate 180
+2013-07-08 00:30:58 [INFO] Erisyuka issued server command: //paste
+2013-07-08 00:36:47 [INFO] Erisyuka lost connection: disconnect.quitting
+2013-07-08 00:36:47 [INFO] Connection reset
+2013-07-08 00:36:47 [INFO] §5Player Erisyuka has left the server!

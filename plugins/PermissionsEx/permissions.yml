@@ -1,7 +1,7 @@
 groups:
-  default:
-    prefix: '&e[Newbie]&2'
+  Guest:
     default: true
+    build: false
     options:
       rank: '1000'
     permissions:
@@ -13,32 +13,102 @@ groups:
     - essentials.helpop
     - essentials.help
     - simpleflip.flip
-    worlds:
-      creative:
-        prefix: '&e[Newbie]&2'
-        suffix: '&f'
-        permissions:
-        - -modifyworld.items.have.383.50
-        - -modifyworld.items.have.383.56
-        - -modifyworld.items.have.383.58
-        - -modifyworld.items.have.383.61
-        - modifyworld.*
-      inheritance:
-      - survival
-  Admin:
-    prefix: '&0(&4Admin&0)&7'
+  Builder:
+    default: false
+    prefix: '&2[&aMember&2]&7 '
+    build: true
     permissions:
-    - '*'
+    - gbrewarder.user
+    - gbshopper.user
+    - casinoslots.create.*
+    - casinoslots.manage
+    - casinoslots.use.*
+    - magicsigns.survival.use
+    - magicsigns.feed.use
+    - magicsigns.heal.use
+    - magicsigns.clear.use
+    - magicsigns.health.use
+    - magicsigns.rocket.use
+    - magicsigns.creative.use
+    - magicsigns.speed.use
+    - magicsigns.level.use
+    - magicsigns.teleport.use
+    - magicsigns.command.use
+    - simpleflip.flip
+    - -modifyworld.items.have.383.50
+    - -modifyworld.items.have.383.56
+    - -modifyworld.items.have.383.58
+    - -modifyworld.items.have.383.61
+    - mondochest.*
+    - multiverse.portal.access.*
+    - ChestShop.shop.*
+    - multiverse.access.*
+    - iConomy.user
+    - essentials.list
+    - modifyworld.*
+    - lockette.user.create.*
+    - bukkit.command.help
+    - bukkit.command.tell
+    - bukkit.command.me
+    - bukkit.command.list
+    - memorystone.create.local
+    - memorystone.use
+    - multiverse.core.teleport.self
+    - griefprevention.createclaims
+    - multiverse.access.*
+    - essentials.afk
+    - essentials.back
+    - essentials.back.ondeath
+    - essentials.balance
+    - essentials.balance.others
+    - essentials.balancetop
+    - essentials.chat.color
+    - essentials.chat.shout
+    - essentials.chat.question
+    - essentials.compass
+    - essentials.depth
+    - essentials.home
+    - essentials.ignore
+    - essentials.kit
+    - essentials.kit.tools
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.me
+    - essentials.msg
+    - essentials.nick
+    - essentials.pay
+    - essentials.ping
+    - essentials.powertool
+    - essentials.protect
+    - essentials.sethome
+    - essentials.signs.use.*
+    - essentials.signs.create.disposal
+    - essentials.signs.create.mail
+    - essentials.signs.create.protection
+    - essentials.signs.create.trade
+    - essentials.signs.break.disposal
+    - essentials.signs.break.mail
+    - essentials.signs.break.protection
+    - essentials.signs.break.trade
+    - essentials.suicide
+    - essentials.time
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpahere
+    - essentials.tpdeny
+    - essentials.warp
+    - essentials.warp.list
+    - essentials.worth
+    - worldguard.region.claim
+    - worldedit.selection.*
+    - worldguard.region.addmember.own.*
+    - worldguard.region.removemember.own.*
     options:
-      rank: '0'
-  God:
-    prefix: '&f[&3God&f]&b'
-    permissions:
-    - '*'
-    options:
-      rank: '1'
+      rank: '900'
   Mod:
+    default: false
     prefix: '&0(&cMod&0)&7'
+    build: true
     permissions:
     - magicsigns.survival.create
     - magicsigns.feed.create
@@ -225,95 +295,22 @@ groups:
     - gbrewarder.admin
     options:
       rank: '100'
-  Builder:
+  Admin:
+    prefix: '&0[&5Almighty&0] &0- &5'
+    default: false
+    build: true
     permissions:
-    - gbrewarder.user
-    - gbshopper.user
-    - casinoslots.create.*
-    - casinoslots.manage
-    - casinoslots.use.*
-    - magicsigns.survival.use
-    - magicsigns.feed.use
-    - magicsigns.heal.use
-    - magicsigns.clear.use
-    - magicsigns.health.use
-    - magicsigns.rocket.use
-    - magicsigns.creative.use
-    - magicsigns.speed.use
-    - magicsigns.level.use
-    - magicsigns.teleport.use
-    - magicsigns.command.use
-    - simpleflip.flip
-    - -modifyworld.items.have.383.50
-    - -modifyworld.items.have.383.56
-    - -modifyworld.items.have.383.58
-    - -modifyworld.items.have.383.61
-    - mondochest.*
-    - multiverse.portal.access.*
-    - ChestShop.shop.*
-    - multiverse.access.*
-    - iConomy.user
-    - essentials.list
-    - modifyworld.*
-    - lockette.user.create.*
-    - bukkit.command.help
-    - bukkit.command.tell
-    - bukkit.command.me
-    - bukkit.command.list
-    - memorystone.create.local
-    - memorystone.use
-    - multiverse.core.teleport.self
-    - griefprevention.createclaims
-    - multiverse.access.*
-    - essentials.afk
-    - essentials.back
-    - essentials.back.ondeath
-    - essentials.balance
-    - essentials.balance.others
-    - essentials.balancetop
-    - essentials.chat.color
-    - essentials.chat.shout
-    - essentials.chat.question
-    - essentials.compass
-    - essentials.depth
-    - essentials.home
-    - essentials.ignore
-    - essentials.kit
-    - essentials.kit.tools
-    - essentials.mail
-    - essentials.mail.send
-    - essentials.me
-    - essentials.msg
-    - essentials.nick
-    - essentials.pay
-    - essentials.ping
-    - essentials.powertool
-    - essentials.protect
-    - essentials.sethome
-    - essentials.signs.use.*
-    - essentials.signs.create.disposal
-    - essentials.signs.create.mail
-    - essentials.signs.create.protection
-    - essentials.signs.create.trade
-    - essentials.signs.break.disposal
-    - essentials.signs.break.mail
-    - essentials.signs.break.protection
-    - essentials.signs.break.trade
-    - essentials.suicide
-    - essentials.time
-    - essentials.tpa
-    - essentials.tpaccept
-    - essentials.tpahere
-    - essentials.tpdeny
-    - essentials.warp
-    - essentials.warp.list
-    - essentials.worth
-    - worldguard.region.claim
-    - worldedit.selection.*
-    - worldguard.region.addmember.own.*
-    - worldguard.region.removemember.own.*
+    - '*'
     options:
-      rank: '900'
+      rank: '0'
+  God:
+    prefix: '&f[&3God&f]&b'
+    default: false
+    build: true
+    permissions:
+    - '*'
+    options:
+      rank: '1'
 users:
   Hirogami:
     prefix: '&5Almighty '
