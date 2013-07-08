@@ -1,0 +1,11 @@
+// This file declares any user specific prefixes and suffixes set with the /ne command.
+Notch prefix = "&b< &a"
+Notch suffix = " &b>"
+Hirogami prefix = "&4"
+Hirogami suffix = "&0-&5sama"
+TechnoTundra prefix = "&f[&3God&f] &b"
+acenario prefix = "&2Almighty &4"
+Maple_Foot prefix = "&4"
+Maple_Foot suffix = "&4 House Of Star"
+Erisyuka prefix = "&4"
+Erisyuka suffix = "&0-&5sama"

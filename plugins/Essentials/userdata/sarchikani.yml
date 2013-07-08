@@ -1,0 +1,22 @@
+timestamps:
+  login: 1372826328691
+  logout: 1372826305741
+  lastteleport: 1372828060146
+ipAddress: 100.0.11.143
+lastlocation:
+  world: CTW2
+  x: 240.43508812762062
+  y: 76.0
+  z: -158.88804069125885
+  yaw: 347.4021
+  pitch: 8.849901
+logoutlocation:
+  world: CTW2
+  x: 202.89081196731578
+  y: -179.37507958825785
+  z: -46.18651707680466
+  yaw: 191.39902
+  pitch: 15.900023
+nickname: §8ShitHead
+afk: false
+godmode: false

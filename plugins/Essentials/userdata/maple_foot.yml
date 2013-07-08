@@ -1,0 +1,21 @@
+timestamps:
+  login: 1373167144720
+  logout: 1373167919420
+  lastteleport: 1372825343802
+ipAddress: 24.17.216.8
+logoutlocation:
+  world: Gate
+  x: -448.6852210915648
+  y: 102.1827892731904
+  z: -191.88360017180736
+  yaw: -223.50043
+  pitch: 9.599965
+lastlocation:
+  world: Gate
+  x: 187.0386059190635
+  y: 62.0
+  z: 227.98931411801945
+  yaw: 0.0
+  pitch: 0.0
+powertools: {}
+afk: false

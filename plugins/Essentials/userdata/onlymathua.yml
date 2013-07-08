@@ -1,0 +1,28 @@
+timestamps:
+  login: 1372725047493
+  lastteleport: 1372625996382
+  logout: 1372725866139
+  mute: 0
+ipAddress: 98.229.34.2
+lastlocation:
+  world: Gate
+  x: 107.27715849388152
+  y: 80.0
+  z: 239.80771526026507
+  yaw: -5.684204
+  pitch: 15.999728
+logoutlocation:
+  world: CTW2
+  x: 220.01875767485808
+  y: 59.0
+  z: -172.26686157213354
+  yaw: -326.39038
+  pitch: 37.315186
+afk: false
+muted: false
+ban:
+  reason: '§4Banned:
+
+    §rThe Ban Hammer has spoken!'
+  timeout: 0
+godmode: true

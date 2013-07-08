@@ -1,0 +1,35 @@
+timestamps:
+  login: 1373180518520
+  logout: 1373180519420
+  lastteleport: 1373011300917
+ipAddress: 192.168.1.2
+lastlocation:
+  world: Survival
+  x: -19.04913187584151
+  y: 64.0
+  z: 246.02429409529316
+  yaw: -203.36646
+  pitch: 21.504005
+logoutlocation:
+  world: CTWH
+  x: 221.68911591904106
+  y: 74.39678126281994
+  z: -62.27156898311257
+  yaw: 268.02
+  pitch: 14.131084
+afk: false
+homes:
+  home:
+    world: Survival
+    x: -18.5
+    y: 64.0
+    z: 253.5
+    yaw: 0.0
+    pitch: 0.0
+nickname: Hirogami
+ban:
+  reason: '§4Banned:
+
+    §rThe Ban Hammer has spoken!'
+  timeout: 0
+godmode: false

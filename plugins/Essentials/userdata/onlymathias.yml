@@ -1,0 +1,36 @@
+timestamps:
+  lastteleport: 1372892353982
+  logout: 1372967294446
+  login: 1372967270411
+  mute: 0
+lastlocation:
+  world: CTW2
+  x: 229.91294952591593
+  y: 83.01010078778431
+  z: 21.801823020798146
+  yaw: 65.58682
+  pitch: 77.28962
+logoutlocation:
+  world: CTW2
+  x: 360.258238532009
+  y: 78.85549590663307
+  z: -53.47576456843917
+  yaw: 50.476685
+  pitch: 16.464
+ipAddress: 98.229.34.2
+godmode: false
+afk: false
+muted: false
+ban:
+  reason: '§4Banned:
+
+    §rThe Ban Hammer has spoken!'
+  timeout: 0
+homes:
+  home:
+    world: CTW2
+    x: 217.92463032531515
+    y: 76.0
+    z: 88.1043614105213
+    yaw: -317.20856
+    pitch: 20.851181

@@ -1,0 +1,19 @@
+# Sign Edit Messages
+
+Message:
+  '1': You cannot use this from the console.
+  '2': You don't have the permission to do this.
+  '3': You are not targeting any block.
+  '4': You must be looking at a sign.
+  '5': You must select a line number and text.
+  '6': Could not parse '/number/' as a number.
+  '7': Line can only be in the range 1-4.
+  '8': Line is too long.
+  '9': Sign break cancelled by plugin.
+  '10': Sign place cancelled by plugin.
+  '11': Sign change modified by a plugin.
+  '12': Sign change denied by a plugin.
+  '13': Sign change cancelled by a plugin.
+  '14': You must select a line number to tab complete.
+  '15': You must only select a line number to tab complete.
+  '16': 'Alls languages can be found here : http://dev.bukkit.org/server-mods/sign-edit/localization/.'

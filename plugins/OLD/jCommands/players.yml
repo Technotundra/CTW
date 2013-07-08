@@ -1,0 +1,12 @@
+Hirogami:
+  IP: 10.0.0.2
+  afk: false
+  back:
+    enabled: true
+    x: 219.19085135927224
+    y: 99.3281524839551
+    z: -112.70136993349863
+    yaw: -351.5479736328125
+    pitch: 9.513591766357422
+    world: CTW
+  fly: false

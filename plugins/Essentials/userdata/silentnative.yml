@@ -1,0 +1,29 @@
+timestamps:
+  login: 1373220823016
+  logout: 1373221359420
+  lastteleport: 1372881805070
+ipAddress: 71.217.76.20
+lastlocation:
+  world: CTWA
+  x: 270.2401764043426
+  y: 48.0
+  z: -44.10993278737189
+  yaw: 343.28592
+  pitch: 14.146778
+logoutlocation:
+  world: CTW2
+  x: 235.5221544203837
+  y: 66.14694667130078
+  z: -78.26044120031128
+  yaw: -190.4502
+  pitch: 24.858845
+afk: false
+homes:
+  home:
+    world: CTWA
+    x: 248.92201049063232
+    y: 69.36933695946747
+    z: 90.93170503195927
+    yaw: -261.1971
+    pitch: 38.46612
+nickname: BrIClHOF

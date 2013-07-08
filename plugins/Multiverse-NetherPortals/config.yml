@@ -1,0 +1,8 @@
+worlds:
+  Survival:
+    portalgoesto:
+      NETHER: Survival_nether
+  survivalOld:
+    portalgoesto:
+      NETHER: SurvivalOld_nether
+bounceback: true
