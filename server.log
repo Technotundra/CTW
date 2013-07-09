@@ -913,3 +913,853 @@ Caused by: java.util.regex.PatternSyntaxException: Unclosed character class near
 2013-07-08 00:36:47 [INFO] Erisyuka lost connection: disconnect.quitting
 2013-07-08 00:36:47 [INFO] Connection reset
 2013-07-08 00:36:47 [INFO] §5Player Erisyuka has left the server!
+2013-07-08 01:25:01 [INFO] [0;34;1m[SimpleBackup] Backup starting[m
+2013-07-08 01:25:02 [INFO] [SimpleBackup] Backing up ./Gate
+2013-07-08 01:25:10 [INFO] [SimpleBackup] Backing up ./Gate_nether
+2013-07-08 01:25:10 [INFO] [SimpleBackup] Backing up ./Gate_the_end
+2013-07-08 01:25:10 [INFO] [SimpleBackup] Backing up ./CTW2
+2013-07-08 01:25:13 [INFO] [SimpleBackup] Backing up ./Creative
+2013-07-08 01:25:13 [INFO] [SimpleBackup] Backing up ./CTWH
+2013-07-08 01:25:15 [INFO] [SimpleBackup] Backing up ./CTW
+2013-07-08 01:25:18 [INFO] [0;34;1m[SimpleBackup] Backup completed[m
+2013-07-08 02:25:01 [INFO] [SimpleBackup] Skipping backup (no one was online)
+2013-07-08 03:25:01 [INFO] [SimpleBackup] Skipping backup (no one was online)
+2013-07-08 04:25:01 [INFO] [SimpleBackup] Skipping backup (no one was online)
+2013-07-08 05:25:01 [INFO] [SimpleBackup] Skipping backup (no one was online)
+2013-07-08 06:25:01 [INFO] [SimpleBackup] Skipping backup (no one was online)
+2013-07-08 07:25:01 [INFO] [SimpleBackup] Skipping backup (no one was online)
+2013-07-08 08:25:01 [INFO] [SimpleBackup] Skipping backup (no one was online)
+2013-07-08 09:25:01 [INFO] [SimpleBackup] Skipping backup (no one was online)
+2013-07-08 10:25:01 [INFO] [SimpleBackup] Skipping backup (no one was online)
+2013-07-08 11:25:01 [INFO] [SimpleBackup] Skipping backup (no one was online)
+2013-07-08 12:25:01 [INFO] [SimpleBackup] Skipping backup (no one was online)
+2013-07-08 13:25:01 [INFO] [SimpleBackup] Skipping backup (no one was online)
+2013-07-08 14:25:01 [INFO] [SimpleBackup] Skipping backup (no one was online)
+2013-07-08 15:25:01 [INFO] [SimpleBackup] Skipping backup (no one was online)
+2013-07-08 16:25:01 [INFO] [SimpleBackup] Skipping backup (no one was online)
+2013-07-08 17:25:01 [INFO] [SimpleBackup] Skipping backup (no one was online)
+2013-07-08 18:25:01 [INFO] [SimpleBackup] Skipping backup (no one was online)
+2013-07-08 19:25:01 [INFO] [SimpleBackup] Skipping backup (no one was online)
+2013-07-08 19:58:23 [INFO] CONSOLE: Stopping the server..[m
+2013-07-08 19:58:23 [INFO] Stopping server
+2013-07-08 19:58:23 [INFO] [EssentialsChat] Disabling EssentialsChat vPre2.11.1.2
+2013-07-08 19:58:23 [INFO] [EssentialsAntiBuild] Disabling EssentialsAntiBuild vPre2.11.1.2
+2013-07-08 19:58:23 [INFO] [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b665
+2013-07-08 19:58:23 [INFO] [Multiverse-NetherPortals] - Disabled
+2013-07-08 19:58:23 [INFO] [MagicSigns] Disabling MagicSigns v1.8.0
+2013-07-08 19:58:23 [INFO] [Multiverse-Inventories] Disabling Multiverse-Inventories v2.5-b357
+2013-07-08 19:58:23 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn vPre2.11.1.2
+2013-07-08 19:58:23 [INFO] [EssentialsProtect] Disabling EssentialsProtect vPre2.11.1.2
+2013-07-08 19:58:23 [INFO] [Essentials] Disabling Essentials vPre2.11.1.2
+2013-07-08 19:58:23 [INFO] [Vault][Economy] Essentials Economy unhooked.
+2013-07-08 19:58:23 [INFO] [Fake Leave] Disabling Fake Leave v12.0
+2013-07-08 19:58:23 [INFO] Fake Leaveon nos it broke
+2013-07-08 19:58:23 [INFO] [NukeChat] Disabling NukeChat v13.4
+2013-07-08 19:58:23 [INFO] [NukeChat] Nuke's plugin is now disabled!
+2013-07-08 19:58:23 [INFO] [NametagEdit] Disabling NametagEdit v1.8
+2013-07-08 19:58:23 [INFO] [AdvancedBans] Disabling AdvancedBans v0.81
+2013-07-08 19:58:23 [INFO] AdvancedBans version 0.81 is disabled!
+2013-07-08 19:58:23 [INFO] [OpenInv] Disabling OpenInv v2.0.4
+2013-07-08 19:58:23 [INFO] [VoteCommand] Disabling VoteCommand v1.0
+2013-07-08 19:58:23 [INFO] Disabled VoteCommand.
+2013-07-08 19:58:23 [INFO] [JoinFull] Disabling JoinFull v1.1
+2013-07-08 19:58:23 [INFO] Joinfull Has Successfully DISABLED!
+2013-07-08 19:58:23 [INFO] [Sign Edit] Disabling Sign Edit v0.3
+2013-07-08 19:58:23 [INFO] [AlwaysDay] Disabling AlwaysDay v2.0
+2013-07-08 19:58:23 [INFO] [AlwaysDay] AlwaysDay v2.0 is now disabled.
+2013-07-08 19:58:23 [INFO] [WorldGuard] Disabling WorldGuard v5.7.5
+2013-07-08 19:58:23 [INFO] [Multiverse-Core] Disabling Multiverse-Core v2.5-b670
+2013-07-08 19:58:23 [INFO] [PermissionsEx] Disabling PermissionsEx v1.19.6
+2013-07-08 19:58:23 [INFO] WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+2013-07-08 19:58:23 [INFO] [Vault][Permission] PermissionsEx un-hooked.
+2013-07-08 19:58:23 [INFO] [Vault][Chat] PermissionsEx_Chat un-hooked.
+2013-07-08 19:58:23 [INFO] Permissions file successfully reloaded
+2013-07-08 19:58:23 [INFO] [PermissionsEx] v1.19.6 disabled successfully.
+2013-07-08 19:58:23 [INFO] [Vault] Disabling Vault v1.2.25-b320
+2013-07-08 19:58:23 [INFO] [NoCraft] Disabling NoCraft v1.0
+2013-07-08 19:58:23 [INFO] [ServerInfoEditor] Disabling ServerInfoEditor v1.0
+2013-07-08 19:58:23 [INFO] [ServerInfoEditor] ServerInfoEditor Has Been disabled!
+2013-07-08 19:58:23 [INFO] [WorldEdit] Disabling WorldEdit v5.5.6
+2013-07-08 19:58:23 [INFO] [SimplePluginManager] Disabling SimplePluginManager v1.1
+2013-07-08 19:58:23 [INFO] [SimpleBackup] Disabling SimpleBackup v1.5
+2013-07-08 19:58:23 [INFO] [SimpleBackup] Disabled SimpleBackup
+2013-07-08 19:58:23 [INFO] [TuxTwoLib] Disabling TuxTwoLib v1.6.1-b2
+2013-07-08 19:58:23 [WARNING] DSCT: Socket closed
+2013-07-08 19:58:23 [INFO] Closing listening thread
+2013-07-08 19:58:23 [INFO] Saving players
+2013-07-08 19:58:23 [INFO] Saving worlds
+2013-07-08 19:58:23 [INFO] Saving chunks for level 'Gate'/Overworld
+2013-07-08 19:58:23 [INFO] Saving chunks for level 'Gate_nether'/Nether
+2013-07-08 19:58:24 [INFO] Saving chunks for level 'Gate_the_end'/The End
+2013-07-08 19:58:24 [INFO] Saving chunks for level 'CTW2'/Overworld
+2013-07-08 19:58:24 [INFO] Saving chunks for level 'Creative'/Overworld
+2013-07-08 19:58:24 [INFO] Saving chunks for level 'CTWH'/Overworld
+2013-07-08 19:58:24 [INFO] Saving chunks for level 'CTW'/Overworld
+2013-07-08 20:01:08 [INFO] Starting minecraft server version 1.6.2
+2013-07-08 20:01:08 [INFO] Loading properties
+2013-07-08 20:01:08 [INFO] Default game type: SURVIVAL
+2013-07-08 20:01:09 [INFO] This server is running CraftBukkit version git-Spigot-1020 (MC: 1.6.2) (Implementing API version 1.6.2-R0.1-SNAPSHOT)
+2013-07-08 20:01:09 [INFO] Generating keypair
+2013-07-08 20:01:10 [INFO] Starting Minecraft server on *:25568
+2013-07-08 20:01:11 [INFO] [PermissionsEx] sql backend registered!
+2013-07-08 20:01:11 [INFO] [PermissionsEx] file backend registered!
+2013-07-08 20:01:11 [INFO] [PermissionsEx] PermissionEx plugin initialized.
+2013-07-08 20:01:11 [INFO] [TuxTwoLib] Loading TuxTwoLib v1.6.1-b2
+2013-07-08 20:01:11 [INFO] [SimpleBackup] Loading SimpleBackup v1.5
+2013-07-08 20:01:11 [INFO] [SimplePluginManager] Loading SimplePluginManager v1.1
+2013-07-08 20:01:11 [INFO] [WorldEdit] Loading WorldEdit v5.5.6
+2013-07-08 20:01:11 [INFO] [ServerInfoEditor] Loading ServerInfoEditor v1.0
+2013-07-08 20:01:11 [INFO] [NoCraft] Loading NoCraft v1.0
+2013-07-08 20:01:11 [INFO] [Vault] Loading Vault v1.2.25-b320
+2013-07-08 20:01:11 [INFO] [PermissionsEx] Loading PermissionsEx v1.19.6
+2013-07-08 20:01:11 [INFO] [PermissionsEx] Initializing file backend
+2013-07-08 20:01:11 [INFO] Permissions file successfully reloaded
+2013-07-08 20:01:11 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.5-b670
+2013-07-08 20:01:11 [INFO] [WorldGuard] Loading WorldGuard v5.7.5
+2013-07-08 20:01:11 [INFO] [AlwaysDay] Loading AlwaysDay v2.0
+2013-07-08 20:01:11 [INFO] [Sign Edit] Loading Sign Edit v0.3
+2013-07-08 20:01:11 [INFO] [JoinFull] Loading JoinFull v1.1
+2013-07-08 20:01:11 [INFO] [VoteCommand] Loading VoteCommand v1.0
+2013-07-08 20:01:11 [INFO] [OpenInv] Loading OpenInv v2.0.5
+2013-07-08 20:01:11 [INFO] [AdvancedBans] Loading AdvancedBans v0.81
+2013-07-08 20:01:11 [INFO] [NametagEdit] Loading NametagEdit v1.8
+2013-07-08 20:01:11 [INFO] [NukeChat] Loading NukeChat v13.4
+2013-07-08 20:01:11 [INFO] [Fake Leave] Loading Fake Leave v12.0
+2013-07-08 20:01:11 [INFO] [Essentials] Loading Essentials vPre2.11.1.2
+2013-07-08 20:01:11 [INFO] [EssentialsProtect] Loading EssentialsProtect vPre2.11.1.2
+2013-07-08 20:01:11 [INFO] [EssentialsSpawn] Loading EssentialsSpawn vPre2.11.1.2
+2013-07-08 20:01:11 [INFO] [Multiverse-Inventories] Loading Multiverse-Inventories v2.5-b357
+2013-07-08 20:01:11 [INFO] [MagicSigns] Loading MagicSigns v1.8.0
+2013-07-08 20:01:11 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b665
+2013-07-08 20:01:11 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild vPre2.11.1.2
+2013-07-08 20:01:11 [INFO] [EssentialsChat] Loading EssentialsChat vPre2.11.1.2
+2013-07-08 20:01:11 [INFO] [ServerInfoEditor] Enabling ServerInfoEditor v1.0
+2013-07-08 20:01:11 [INFO] [ServerInfoEditor] ServerInfoEditor has been enabled!
+2013-07-08 20:01:11 [INFO] [Vault] Enabling Vault v1.2.25-b320
+2013-07-08 20:01:11 [INFO] [Vault][Economy] Essentials Economy found: Waiting
+2013-07-08 20:01:11 [INFO] [Vault][Permission] PermissionsEx found: Waiting
+2013-07-08 20:01:11 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2013-07-08 20:01:11 [INFO] [Vault][Chat] PermissionsEx found: Waiting
+2013-07-08 20:01:11 [INFO] [Vault] Enabled Version 1.2.25-b320
+2013-07-08 20:01:11 [INFO] [Vault][Economy] Essentials Economy hooked.
+2013-07-08 20:01:11 [INFO] [Vault][Permission] PermissionsEx hooked.
+2013-07-08 20:01:11 [INFO] Preparing level "Gate"
+2013-07-08 20:01:11 [INFO] -------- World Settings For [Gate] --------
+2013-07-08 20:01:11 [INFO] Mob Spawn Range: 4
+2013-07-08 20:01:11 [INFO] Cactus Growth Modifier: 100%
+2013-07-08 20:01:11 [INFO] Cane Growth Modifier: 100%
+2013-07-08 20:01:11 [INFO] Melon Growth Modifier: 100%
+2013-07-08 20:01:11 [INFO] Mushroom Growth Modifier: 100%
+2013-07-08 20:01:11 [INFO] Pumpkin Growth Modifier: 100%
+2013-07-08 20:01:11 [INFO] Sapling Growth Modifier: 100%
+2013-07-08 20:01:11 [INFO] Wheat Growth Modifier: 100%
+2013-07-08 20:01:11 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2013-07-08 20:01:11 [INFO] Anti X-Ray: true
+2013-07-08 20:01:11 [INFO] 	Engine Mode: 1
+2013-07-08 20:01:11 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2013-07-08 20:01:11 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2013-07-08 20:01:11 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2013-07-08 20:01:11 [INFO] Random Lighting Updates: false
+2013-07-08 20:01:11 [INFO] View Distance: 15
+2013-07-08 20:01:11 [INFO] Chunks to Grow per Tick: 650
+2013-07-08 20:01:11 [INFO] Experience Merge Radius: 3.0
+2013-07-08 20:01:11 [INFO] Item Merge Radius: 2.5
+2013-07-08 20:01:12 [INFO] -------- World Settings For [Gate_nether] --------
+2013-07-08 20:01:12 [INFO] Mob Spawn Range: 4
+2013-07-08 20:01:12 [INFO] Cactus Growth Modifier: 100%
+2013-07-08 20:01:12 [INFO] Cane Growth Modifier: 100%
+2013-07-08 20:01:12 [INFO] Melon Growth Modifier: 100%
+2013-07-08 20:01:12 [INFO] Mushroom Growth Modifier: 100%
+2013-07-08 20:01:12 [INFO] Pumpkin Growth Modifier: 100%
+2013-07-08 20:01:12 [INFO] Sapling Growth Modifier: 100%
+2013-07-08 20:01:12 [INFO] Wheat Growth Modifier: 100%
+2013-07-08 20:01:12 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2013-07-08 20:01:12 [INFO] Anti X-Ray: true
+2013-07-08 20:01:12 [INFO] 	Engine Mode: 1
+2013-07-08 20:01:12 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2013-07-08 20:01:12 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2013-07-08 20:01:12 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2013-07-08 20:01:12 [INFO] Random Lighting Updates: false
+2013-07-08 20:01:12 [INFO] View Distance: 15
+2013-07-08 20:01:12 [INFO] Chunks to Grow per Tick: 650
+2013-07-08 20:01:12 [INFO] Experience Merge Radius: 3.0
+2013-07-08 20:01:12 [INFO] Item Merge Radius: 2.5
+2013-07-08 20:01:12 [INFO] -------- World Settings For [Gate_the_end] --------
+2013-07-08 20:01:12 [INFO] Mob Spawn Range: 4
+2013-07-08 20:01:12 [INFO] Cactus Growth Modifier: 100%
+2013-07-08 20:01:12 [INFO] Cane Growth Modifier: 100%
+2013-07-08 20:01:12 [INFO] Melon Growth Modifier: 100%
+2013-07-08 20:01:12 [INFO] Mushroom Growth Modifier: 100%
+2013-07-08 20:01:12 [INFO] Pumpkin Growth Modifier: 100%
+2013-07-08 20:01:12 [INFO] Sapling Growth Modifier: 100%
+2013-07-08 20:01:12 [INFO] Wheat Growth Modifier: 100%
+2013-07-08 20:01:12 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2013-07-08 20:01:12 [INFO] Anti X-Ray: true
+2013-07-08 20:01:12 [INFO] 	Engine Mode: 1
+2013-07-08 20:01:12 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2013-07-08 20:01:12 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2013-07-08 20:01:12 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2013-07-08 20:01:12 [INFO] Random Lighting Updates: false
+2013-07-08 20:01:12 [INFO] View Distance: 15
+2013-07-08 20:01:12 [INFO] Chunks to Grow per Tick: 650
+2013-07-08 20:01:12 [INFO] Experience Merge Radius: 3.0
+2013-07-08 20:01:12 [INFO] Item Merge Radius: 2.5
+2013-07-08 20:01:12 [INFO] Preparing start region for level 0 (Seed: -6763850205428449256)
+2013-07-08 20:01:13 [INFO] Preparing start region for level 1 (Seed: 5692084478635644187)
+2013-07-08 20:01:13 [INFO] Preparing start region for level 2 (Seed: 5692084478635644187)
+2013-07-08 20:01:14 [INFO] [TuxTwoLib] Enabling TuxTwoLib v1.6.1-b2
+2013-07-08 20:01:14 [WARNING] [TuxTwoLib] Current version incompatible with this version of Craftbukkit! Checking for and downloading a compatible version.
+2013-07-08 20:01:15 [SEVERE] [TuxTwoLib] New version download was unsuccessful. Please download the correct version of the library from http://dev.bukkit.org/server-mods/tuxtwolib/
+2013-07-08 20:01:15 [INFO] [SimpleBackup] Enabling SimpleBackup v1.5
+2013-07-08 20:01:15 [INFO] [SimpleBackup] Worlds [CraftWorld{name=Gate}, CraftWorld{name=Gate_nether}, CraftWorld{name=Gate_the_end}] scheduled for backup.
+2013-07-08 20:01:15 [INFO] [SimpleBackup] Backup scheduled starting in 1.0 hours, repeat interval: 1.0 hours
+2013-07-08 20:01:15 [INFO] [SimpleBackup] Enabled.
+2013-07-08 20:01:15 [INFO] [SimplePluginManager] Enabling SimplePluginManager v1.1
+2013-07-08 20:01:15 [INFO] [SimplePluginManager] by [monster010]
+2013-07-08 20:01:15 [INFO] [WorldEdit] Enabling WorldEdit v5.5.6
+2013-07-08 20:01:15 [INFO] WEPIF: Using the Bukkit Permissions API.
+2013-07-08 20:01:15 [INFO] [NoCraft] Enabling NoCraft v1.0
+2013-07-08 20:01:15 [INFO] [PermissionsEx] Enabling PermissionsEx v1.19.6
+2013-07-08 20:01:15 [INFO] [PermissionsEx] Superperms disabled. Check "config.yml" to enable.
+2013-07-08 20:01:15 [INFO] [PermissionsEx] v1.19.6 enabled
+2013-07-08 20:01:15 [INFO] WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+2013-07-08 20:01:15 [INFO] [Vault][Chat] PermissionsEx_Chat hooked.
+2013-07-08 20:01:15 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.5-b670
+2013-07-08 20:01:15 [INFO] [Multiverse-Core] [AllPay] - Version 13.0 - hooked into Essentials Economy for Multiverse-Core v2.5-b670
+2013-07-08 20:01:15 [INFO] -------- World Settings For [CTW2] --------
+2013-07-08 20:01:15 [INFO] Mob Spawn Range: 4
+2013-07-08 20:01:15 [INFO] Cactus Growth Modifier: 100%
+2013-07-08 20:01:15 [INFO] Cane Growth Modifier: 100%
+2013-07-08 20:01:15 [INFO] Melon Growth Modifier: 100%
+2013-07-08 20:01:15 [INFO] Mushroom Growth Modifier: 100%
+2013-07-08 20:01:15 [INFO] Pumpkin Growth Modifier: 100%
+2013-07-08 20:01:15 [INFO] Sapling Growth Modifier: 100%
+2013-07-08 20:01:15 [INFO] Wheat Growth Modifier: 100%
+2013-07-08 20:01:15 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2013-07-08 20:01:15 [INFO] Anti X-Ray: true
+2013-07-08 20:01:15 [INFO] 	Engine Mode: 1
+2013-07-08 20:01:15 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2013-07-08 20:01:15 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2013-07-08 20:01:15 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2013-07-08 20:01:15 [INFO] Random Lighting Updates: false
+2013-07-08 20:01:15 [INFO] View Distance: 15
+2013-07-08 20:01:15 [INFO] Chunks to Grow per Tick: 650
+2013-07-08 20:01:15 [INFO] Experience Merge Radius: 3.0
+2013-07-08 20:01:15 [INFO] Item Merge Radius: 2.5
+2013-07-08 20:01:16 [INFO] Preparing start region for level 3 (Seed: 1920585402)
+2013-07-08 20:01:16 [INFO] -------- World Settings For [Creative] --------
+2013-07-08 20:01:16 [INFO] Mob Spawn Range: 4
+2013-07-08 20:01:16 [INFO] Cactus Growth Modifier: 100%
+2013-07-08 20:01:16 [INFO] Cane Growth Modifier: 100%
+2013-07-08 20:01:16 [INFO] Melon Growth Modifier: 100%
+2013-07-08 20:01:16 [INFO] Mushroom Growth Modifier: 100%
+2013-07-08 20:01:16 [INFO] Pumpkin Growth Modifier: 100%
+2013-07-08 20:01:16 [INFO] Sapling Growth Modifier: 100%
+2013-07-08 20:01:16 [INFO] Wheat Growth Modifier: 100%
+2013-07-08 20:01:16 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2013-07-08 20:01:16 [INFO] Anti X-Ray: true
+2013-07-08 20:01:16 [INFO] 	Engine Mode: 1
+2013-07-08 20:01:16 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2013-07-08 20:01:16 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2013-07-08 20:01:16 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2013-07-08 20:01:16 [INFO] Random Lighting Updates: false
+2013-07-08 20:01:16 [INFO] View Distance: 15
+2013-07-08 20:01:16 [INFO] Chunks to Grow per Tick: 650
+2013-07-08 20:01:16 [INFO] Experience Merge Radius: 3.0
+2013-07-08 20:01:16 [INFO] Item Merge Radius: 2.5
+2013-07-08 20:01:16 [INFO] Preparing start region for level 4 (Seed: -1047402018725018594)
+2013-07-08 20:01:18 [INFO] -------- World Settings For [CTWH] --------
+2013-07-08 20:01:18 [INFO] Mob Spawn Range: 4
+2013-07-08 20:01:18 [INFO] Cactus Growth Modifier: 100%
+2013-07-08 20:01:18 [INFO] Cane Growth Modifier: 100%
+2013-07-08 20:01:18 [INFO] Melon Growth Modifier: 100%
+2013-07-08 20:01:18 [INFO] Mushroom Growth Modifier: 100%
+2013-07-08 20:01:18 [INFO] Pumpkin Growth Modifier: 100%
+2013-07-08 20:01:18 [INFO] Sapling Growth Modifier: 100%
+2013-07-08 20:01:18 [INFO] Wheat Growth Modifier: 100%
+2013-07-08 20:01:18 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2013-07-08 20:01:18 [INFO] Anti X-Ray: true
+2013-07-08 20:01:18 [INFO] 	Engine Mode: 1
+2013-07-08 20:01:18 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2013-07-08 20:01:18 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2013-07-08 20:01:18 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2013-07-08 20:01:18 [INFO] Random Lighting Updates: false
+2013-07-08 20:01:18 [INFO] View Distance: 15
+2013-07-08 20:01:18 [INFO] Chunks to Grow per Tick: 650
+2013-07-08 20:01:18 [INFO] Experience Merge Radius: 3.0
+2013-07-08 20:01:18 [INFO] Item Merge Radius: 2.5
+2013-07-08 20:01:18 [INFO] Preparing start region for level 5 (Seed: 1920585402)
+2013-07-08 20:01:19 [INFO] -------- World Settings For [CTW] --------
+2013-07-08 20:01:19 [INFO] Mob Spawn Range: 4
+2013-07-08 20:01:19 [INFO] Cactus Growth Modifier: 100%
+2013-07-08 20:01:19 [INFO] Cane Growth Modifier: 100%
+2013-07-08 20:01:19 [INFO] Melon Growth Modifier: 100%
+2013-07-08 20:01:19 [INFO] Mushroom Growth Modifier: 100%
+2013-07-08 20:01:19 [INFO] Pumpkin Growth Modifier: 100%
+2013-07-08 20:01:19 [INFO] Sapling Growth Modifier: 100%
+2013-07-08 20:01:19 [INFO] Wheat Growth Modifier: 100%
+2013-07-08 20:01:19 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2013-07-08 20:01:19 [INFO] Anti X-Ray: true
+2013-07-08 20:01:19 [INFO] 	Engine Mode: 1
+2013-07-08 20:01:19 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2013-07-08 20:01:19 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2013-07-08 20:01:19 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2013-07-08 20:01:19 [INFO] Random Lighting Updates: false
+2013-07-08 20:01:19 [INFO] View Distance: 15
+2013-07-08 20:01:19 [INFO] Chunks to Grow per Tick: 650
+2013-07-08 20:01:19 [INFO] Experience Merge Radius: 3.0
+2013-07-08 20:01:19 [INFO] Item Merge Radius: 2.5
+2013-07-08 20:01:19 [INFO] Preparing start region for level 6 (Seed: 1920585402)
+2013-07-08 20:01:21 [INFO] [Multiverse-Core] 7 - World(s) loaded.
+2013-07-08 20:01:21 [INFO] [Multiverse-Core] Version 2.5-b670 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+2013-07-08 20:01:21 [INFO] [WorldGuard] Enabling WorldGuard v5.7.5
+2013-07-08 20:01:21 [INFO] [WorldGuard] (Gate) TNT ignition is PERMITTED.
+2013-07-08 20:01:21 [INFO] [WorldGuard] (Gate) Lighters are PERMITTED.
+2013-07-08 20:01:21 [INFO] [WorldGuard] (Gate) Lava fire is blocked.
+2013-07-08 20:01:21 [INFO] [WorldGuard] (Gate) Fire spread is UNRESTRICTED.
+2013-07-08 20:01:21 [INFO] [WorldGuard] Loaded configuration for world 'Gate'
+2013-07-08 20:01:21 [INFO] [WorldGuard] (Gate_nether) TNT ignition is PERMITTED.
+2013-07-08 20:01:21 [INFO] [WorldGuard] (Gate_nether) Lighters are PERMITTED.
+2013-07-08 20:01:21 [INFO] [WorldGuard] (Gate_nether) Lava fire is blocked.
+2013-07-08 20:01:21 [INFO] [WorldGuard] (Gate_nether) Fire spread is UNRESTRICTED.
+2013-07-08 20:01:21 [INFO] [WorldGuard] Loaded configuration for world 'Gate_nether'
+2013-07-08 20:01:21 [INFO] [WorldGuard] (Gate_the_end) TNT ignition is PERMITTED.
+2013-07-08 20:01:21 [INFO] [WorldGuard] (Gate_the_end) Lighters are PERMITTED.
+2013-07-08 20:01:21 [INFO] [WorldGuard] (Gate_the_end) Lava fire is blocked.
+2013-07-08 20:01:21 [INFO] [WorldGuard] (Gate_the_end) Fire spread is UNRESTRICTED.
+2013-07-08 20:01:21 [INFO] [WorldGuard] Loaded configuration for world 'Gate_the_end'
+2013-07-08 20:01:21 [INFO] [WorldGuard] (CTW2) TNT ignition is PERMITTED.
+2013-07-08 20:01:21 [INFO] [WorldGuard] (CTW2) Lighters are PERMITTED.
+2013-07-08 20:01:21 [INFO] [WorldGuard] (CTW2) Lava fire is blocked.
+2013-07-08 20:01:21 [INFO] [WorldGuard] (CTW2) Fire spread is UNRESTRICTED.
+2013-07-08 20:01:21 [INFO] [WorldGuard] Loaded configuration for world 'CTW2'
+2013-07-08 20:01:21 [INFO] [WorldGuard] (Creative) TNT ignition is PERMITTED.
+2013-07-08 20:01:21 [INFO] [WorldGuard] (Creative) Lighters are PERMITTED.
+2013-07-08 20:01:21 [INFO] [WorldGuard] (Creative) Lava fire is blocked.
+2013-07-08 20:01:21 [INFO] [WorldGuard] (Creative) Fire spread is UNRESTRICTED.
+2013-07-08 20:01:21 [INFO] [WorldGuard] Loaded configuration for world 'Creative'
+2013-07-08 20:01:21 [INFO] [WorldGuard] (CTWH) TNT ignition is PERMITTED.
+2013-07-08 20:01:21 [INFO] [WorldGuard] (CTWH) Lighters are PERMITTED.
+2013-07-08 20:01:21 [INFO] [WorldGuard] (CTWH) Lava fire is blocked.
+2013-07-08 20:01:21 [INFO] [WorldGuard] (CTWH) Fire spread is UNRESTRICTED.
+2013-07-08 20:01:21 [INFO] [WorldGuard] Loaded configuration for world 'CTWH'
+2013-07-08 20:01:21 [INFO] [WorldGuard] (CTW) TNT ignition is PERMITTED.
+2013-07-08 20:01:21 [INFO] [WorldGuard] (CTW) Lighters are PERMITTED.
+2013-07-08 20:01:21 [INFO] [WorldGuard] (CTW) Lava fire is blocked.
+2013-07-08 20:01:21 [INFO] [WorldGuard] (CTW) Fire spread is UNRESTRICTED.
+2013-07-08 20:01:21 [INFO] [WorldGuard] Loaded configuration for world 'CTW'
+2013-07-08 20:01:21 [INFO] [WorldGuard] 0 regions loaded for 'Gate'
+2013-07-08 20:01:21 [INFO] [WorldGuard] 0 regions loaded for 'Gate_nether'
+2013-07-08 20:01:21 [INFO] [WorldGuard] 0 regions loaded for 'Gate_the_end'
+2013-07-08 20:01:21 [INFO] [WorldGuard] 0 regions loaded for 'CTW2'
+2013-07-08 20:01:21 [INFO] [WorldGuard] 0 regions loaded for 'Creative'
+2013-07-08 20:01:21 [INFO] [WorldGuard] 0 regions loaded for 'CTWH'
+2013-07-08 20:01:21 [INFO] [WorldGuard] 3 regions loaded for 'CTW'
+2013-07-08 20:01:21 [INFO] [AlwaysDay] Enabling AlwaysDay v2.0
+2013-07-08 20:01:21 [INFO] [AlwaysDay] AlwaysDay v2.0 is now enabled.
+2013-07-08 20:01:21 [INFO] [Sign Edit] Enabling Sign Edit v0.3
+2013-07-08 20:01:21 [INFO] [Sign Edit] Alls languages can be found here : http://dev.bukkit.org/server-mods/sign-edit/localization/.
+2013-07-08 20:01:22 [INFO] [JoinFull] Enabling JoinFull v1.1
+2013-07-08 20:01:22 [INFO] Joinfull Has Successfully ENABLED!
+2013-07-08 20:01:22 [INFO] [VoteCommand] Enabling VoteCommand v1.0
+2013-07-08 20:01:22 [INFO] Enabled VoteCommand.
+2013-07-08 20:01:22 [INFO] [OpenInv] Enabling OpenInv v2.0.5
+2013-07-08 20:01:22 [INFO] [OpenInv] Your version of CraftBukkit is not supported.
+2013-07-08 20:01:22 [INFO] [OpenInv] Please look for an updated version of OpenInv.
+2013-07-08 20:01:22 [INFO] [OpenInv] Disabling OpenInv v2.0.5
+2013-07-08 20:01:22 [INFO] [AdvancedBans] Enabling AdvancedBans v0.81
+2013-07-08 20:01:22 [INFO] [NametagEdit] Enabling NametagEdit v1.8
+2013-07-08 20:01:22 [INFO] [NukeChat] Enabling NukeChat v13.4
+2013-07-08 20:01:22 [INFO] [NukeChat] Nuke's plugin is now enabled!
+2013-07-08 20:01:22 [INFO] [NukeChat] Loading Configuration file...
+2013-07-08 20:01:22 [INFO] [NukeChat] Loading nickname data...
+2013-07-08 20:01:22 [INFO] [NukeChat] Nickname data loaded.
+2013-07-08 20:01:22 [INFO] [NukeChat] Configuration file reloaded.
+2013-07-08 20:01:24 [INFO] [Fake Leave] Enabling Fake Leave v12.0
+2013-07-08 20:01:24 [INFO] Fake Leave Version 12.0 Me am better
+2013-07-08 20:01:24 [INFO] [Essentials] Enabling Essentials vPre2.11.1.2
+2013-07-08 20:01:24 [INFO] Bukkit version format changed. Version not checked.
+2013-07-08 20:01:24 [INFO] git-Spigot-1020 (MC: 1.6.2)
+2013-07-08 20:01:24 [INFO] 1.6.2-R0.1-SNAPSHOT
+2013-07-08 20:01:25 [INFO] Essentials: Using PermissionsEx based permissions.
+2013-07-08 20:01:25 [INFO] [EssentialsProtect] Enabling EssentialsProtect vPre2.11.1.2
+2013-07-08 20:01:25 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn vPre2.11.1.2
+2013-07-08 20:01:25 [INFO] [Multiverse-Inventories] Enabling Multiverse-Inventories v2.5-b357
+2013-07-08 20:01:26 [INFO] [Multiverse-Inventories] The following worlds for group 'Survival' are not loaded: Survival, Survival_the_end, Survival_nether
+2013-07-08 20:01:26 [INFO] [Multiverse-Inventories] The following worlds for group 'SurvivalOld' are not loaded: SurvivalOld, SurvivalOld_the_end, SurvivalOld_nether
+2013-07-08 20:01:26 [INFO] [Multiverse-Inventories 2.5-b357] enabled.
+2013-07-08 20:01:26 [INFO] [MagicSigns] Enabling MagicSigns v1.8.0
+2013-07-08 20:01:26 [INFO] [MagicSigns] Using Vault for economy.
+2013-07-08 20:01:26 [INFO] [MagicSigns] Using Vault for permissions.
+2013-07-08 20:01:26 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b665
+2013-07-08 20:01:26 [INFO] [Multiverse-NetherPortals] - Version 2.5-b665 Enabled - By Rigby and fernferret
+2013-07-08 20:01:27 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild vPre2.11.1.2
+2013-07-08 20:01:27 [INFO] [EssentialsChat] Enabling EssentialsChat vPre2.11.1.2
+2013-07-08 20:01:36 [INFO] Done (24.402s)! For help, type "help" or "?"
+2013-07-08 20:01:36 [INFO] Starting GS4 status listener
+2013-07-08 20:01:36 [INFO] Query running on 0.0.0.0:25568
+2013-07-08 20:01:36 [INFO] [NametagEdit] Hooked into PermissionsEx!
+2013-07-08 20:04:46 [INFO] Disconnecting Erisyuka [/192.168.1.2:62071]: Outdated client!
+2013-07-08 20:06:51 [INFO] CONSOLE: Stopping the server..[m
+2013-07-08 20:06:51 [INFO] Stopping server
+2013-07-08 20:06:51 [INFO] [EssentialsChat] Disabling EssentialsChat vPre2.11.1.2
+2013-07-08 20:06:52 [INFO] [EssentialsAntiBuild] Disabling EssentialsAntiBuild vPre2.11.1.2
+2013-07-08 20:06:52 [INFO] [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b665
+2013-07-08 20:06:52 [INFO] [Multiverse-NetherPortals] - Disabled
+2013-07-08 20:06:52 [INFO] [MagicSigns] Disabling MagicSigns v1.8.0
+2013-07-08 20:06:52 [INFO] [Multiverse-Inventories] Disabling Multiverse-Inventories v2.5-b357
+2013-07-08 20:06:52 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn vPre2.11.1.2
+2013-07-08 20:06:52 [INFO] [EssentialsProtect] Disabling EssentialsProtect vPre2.11.1.2
+2013-07-08 20:06:52 [INFO] [Essentials] Disabling Essentials vPre2.11.1.2
+2013-07-08 20:06:52 [INFO] [Vault][Economy] Essentials Economy unhooked.
+2013-07-08 20:06:52 [INFO] [Fake Leave] Disabling Fake Leave v12.0
+2013-07-08 20:06:52 [INFO] Fake Leaveon nos it broke
+2013-07-08 20:06:52 [INFO] [NukeChat] Disabling NukeChat v13.4
+2013-07-08 20:06:52 [INFO] [NukeChat] Nuke's plugin is now disabled!
+2013-07-08 20:06:52 [INFO] [NametagEdit] Disabling NametagEdit v1.8
+2013-07-08 20:06:52 [INFO] [AdvancedBans] Disabling AdvancedBans v0.81
+2013-07-08 20:06:52 [INFO] AdvancedBans version 0.81 is disabled!
+2013-07-08 20:06:52 [INFO] [VoteCommand] Disabling VoteCommand v1.0
+2013-07-08 20:06:52 [INFO] Disabled VoteCommand.
+2013-07-08 20:06:52 [INFO] [JoinFull] Disabling JoinFull v1.1
+2013-07-08 20:06:52 [INFO] Joinfull Has Successfully DISABLED!
+2013-07-08 20:06:52 [INFO] [Sign Edit] Disabling Sign Edit v0.3
+2013-07-08 20:06:52 [INFO] [AlwaysDay] Disabling AlwaysDay v2.0
+2013-07-08 20:06:52 [INFO] [AlwaysDay] AlwaysDay v2.0 is now disabled.
+2013-07-08 20:06:52 [INFO] [WorldGuard] Disabling WorldGuard v5.7.5
+2013-07-08 20:06:52 [INFO] [Multiverse-Core] Disabling Multiverse-Core v2.5-b670
+2013-07-08 20:06:52 [INFO] [PermissionsEx] Disabling PermissionsEx v1.19.6
+2013-07-08 20:06:52 [INFO] WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+2013-07-08 20:06:52 [INFO] [Vault][Permission] PermissionsEx un-hooked.
+2013-07-08 20:06:52 [INFO] [Vault][Chat] PermissionsEx_Chat un-hooked.
+2013-07-08 20:06:52 [INFO] Permissions file successfully reloaded
+2013-07-08 20:06:52 [INFO] [PermissionsEx] v1.19.6 disabled successfully.
+2013-07-08 20:06:52 [INFO] [Vault] Disabling Vault v1.2.25-b320
+2013-07-08 20:06:52 [INFO] [NoCraft] Disabling NoCraft v1.0
+2013-07-08 20:06:52 [INFO] [ServerInfoEditor] Disabling ServerInfoEditor v1.0
+2013-07-08 20:06:52 [INFO] [ServerInfoEditor] ServerInfoEditor Has Been disabled!
+2013-07-08 20:06:52 [INFO] [WorldEdit] Disabling WorldEdit v5.5.6
+2013-07-08 20:06:52 [INFO] [SimplePluginManager] Disabling SimplePluginManager v1.1
+2013-07-08 20:06:52 [INFO] [SimpleBackup] Disabling SimpleBackup v1.5
+2013-07-08 20:06:52 [INFO] [SimpleBackup] Disabled SimpleBackup
+2013-07-08 20:06:52 [INFO] [TuxTwoLib] Disabling TuxTwoLib v1.6.1-b2
+2013-07-08 20:06:52 [INFO] Saving players
+2013-07-08 20:06:52 [INFO] Saving worlds
+2013-07-08 20:06:52 [INFO] Saving chunks for level 'Gate'/Overworld
+2013-07-08 20:06:52 [INFO] Saving chunks for level 'Gate_nether'/Nether
+2013-07-08 20:06:52 [INFO] Saving chunks for level 'Gate_the_end'/The End
+2013-07-08 20:06:52 [INFO] Saving chunks for level 'CTW2'/Overworld
+2013-07-08 20:06:52 [INFO] Saving chunks for level 'Creative'/Overworld
+2013-07-08 20:06:52 [INFO] Saving chunks for level 'CTWH'/Overworld
+2013-07-08 20:06:52 [INFO] Saving chunks for level 'CTW'/Overworld
+2013-07-08 20:07:21 [INFO] Starting minecraft server version 1.6.1
+2013-07-08 20:07:21 [INFO] Loading properties
+2013-07-08 20:07:21 [INFO] Default game type: SURVIVAL
+2013-07-08 20:07:21 [INFO] This server is running CraftBukkit version git-Spigot-1011 (MC: 1.6.1) (Implementing API version 1.6.1-R0.1-SNAPSHOT)
+2013-07-08 20:07:21 [INFO] Generating keypair
+2013-07-08 20:07:22 [INFO] Starting Minecraft server on *:25568
+2013-07-08 20:07:22 [INFO] [PermissionsEx] sql backend registered!
+2013-07-08 20:07:22 [INFO] [PermissionsEx] file backend registered!
+2013-07-08 20:07:22 [INFO] [PermissionsEx] PermissionEx plugin initialized.
+2013-07-08 20:07:23 [INFO] [TuxTwoLib] Loading TuxTwoLib v1.6.1-b2
+2013-07-08 20:07:23 [INFO] [SimpleBackup] Loading SimpleBackup v1.5
+2013-07-08 20:07:23 [INFO] [SimplePluginManager] Loading SimplePluginManager v1.1
+2013-07-08 20:07:23 [INFO] [WorldEdit] Loading WorldEdit v5.5.6
+2013-07-08 20:07:23 [INFO] [ServerInfoEditor] Loading ServerInfoEditor v1.0
+2013-07-08 20:07:23 [INFO] [NoCraft] Loading NoCraft v1.0
+2013-07-08 20:07:23 [INFO] [Vault] Loading Vault v1.2.25-b320
+2013-07-08 20:07:23 [INFO] [PermissionsEx] Loading PermissionsEx v1.19.6
+2013-07-08 20:07:23 [INFO] [PermissionsEx] Initializing file backend
+2013-07-08 20:07:23 [INFO] Permissions file successfully reloaded
+2013-07-08 20:07:23 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.5-b670
+2013-07-08 20:07:23 [INFO] [WorldGuard] Loading WorldGuard v5.7.5
+2013-07-08 20:07:23 [INFO] [AlwaysDay] Loading AlwaysDay v2.0
+2013-07-08 20:07:23 [INFO] [Sign Edit] Loading Sign Edit v0.3
+2013-07-08 20:07:23 [INFO] [JoinFull] Loading JoinFull v1.1
+2013-07-08 20:07:23 [INFO] [VoteCommand] Loading VoteCommand v1.0
+2013-07-08 20:07:23 [INFO] [OpenInv] Loading OpenInv v2.0.5
+2013-07-08 20:07:23 [INFO] [AdvancedBans] Loading AdvancedBans v0.81
+2013-07-08 20:07:23 [INFO] [NametagEdit] Loading NametagEdit v1.8
+2013-07-08 20:07:23 [INFO] [NukeChat] Loading NukeChat v13.4
+2013-07-08 20:07:23 [INFO] [Fake Leave] Loading Fake Leave v12.0
+2013-07-08 20:07:23 [INFO] [Essentials] Loading Essentials vPre2.11.1.2
+2013-07-08 20:07:23 [INFO] [EssentialsProtect] Loading EssentialsProtect vPre2.11.1.2
+2013-07-08 20:07:23 [INFO] [EssentialsSpawn] Loading EssentialsSpawn vPre2.11.1.2
+2013-07-08 20:07:23 [INFO] [Multiverse-Inventories] Loading Multiverse-Inventories v2.5-b357
+2013-07-08 20:07:23 [INFO] [MagicSigns] Loading MagicSigns v1.8.0
+2013-07-08 20:07:23 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b665
+2013-07-08 20:07:23 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild vPre2.11.1.2
+2013-07-08 20:07:23 [INFO] [EssentialsChat] Loading EssentialsChat vPre2.11.1.2
+2013-07-08 20:07:23 [INFO] [ServerInfoEditor] Enabling ServerInfoEditor v1.0
+2013-07-08 20:07:23 [INFO] [ServerInfoEditor] ServerInfoEditor has been enabled!
+2013-07-08 20:07:23 [INFO] [Vault] Enabling Vault v1.2.25-b320
+2013-07-08 20:07:23 [INFO] [Vault][Economy] Essentials Economy found: Waiting
+2013-07-08 20:07:23 [INFO] [Vault][Permission] PermissionsEx found: Waiting
+2013-07-08 20:07:23 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2013-07-08 20:07:23 [INFO] [Vault][Chat] PermissionsEx found: Waiting
+2013-07-08 20:07:23 [INFO] [Vault] Enabled Version 1.2.25-b320
+2013-07-08 20:07:23 [INFO] [Vault][Economy] Essentials Economy hooked.
+2013-07-08 20:07:23 [INFO] [Vault][Permission] PermissionsEx hooked.
+2013-07-08 20:07:23 [INFO] Preparing level "Gate"
+2013-07-08 20:07:23 [INFO] -------- World Settings For [Gate] --------
+2013-07-08 20:07:23 [INFO] Anti X-Ray: true
+2013-07-08 20:07:23 [INFO] 	Engine Mode: 1
+2013-07-08 20:07:23 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2013-07-08 20:07:23 [INFO] Mob Spawn Range: 4
+2013-07-08 20:07:23 [INFO] Cactus Growth Modifier: 100%
+2013-07-08 20:07:23 [INFO] Cane Growth Modifier: 100%
+2013-07-08 20:07:23 [INFO] Melon Growth Modifier: 100%
+2013-07-08 20:07:23 [INFO] Mushroom Growth Modifier: 100%
+2013-07-08 20:07:23 [INFO] Pumpkin Growth Modifier: 100%
+2013-07-08 20:07:23 [INFO] Sapling Growth Modifier: 100%
+2013-07-08 20:07:23 [INFO] Wheat Growth Modifier: 100%
+2013-07-08 20:07:23 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2013-07-08 20:07:23 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2013-07-08 20:07:23 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2013-07-08 20:07:23 [INFO] Random Lighting Updates: false
+2013-07-08 20:07:23 [INFO] View Distance: 15
+2013-07-08 20:07:23 [INFO] Chunks to Grow per Tick: 650
+2013-07-08 20:07:23 [INFO] Experience Merge Radius: 3.0
+2013-07-08 20:07:23 [INFO] Item Merge Radius: 2.5
+2013-07-08 20:07:23 [INFO] -------- World Settings For [Gate_nether] --------
+2013-07-08 20:07:23 [INFO] Anti X-Ray: true
+2013-07-08 20:07:23 [INFO] 	Engine Mode: 1
+2013-07-08 20:07:23 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2013-07-08 20:07:23 [INFO] Mob Spawn Range: 4
+2013-07-08 20:07:23 [INFO] Cactus Growth Modifier: 100%
+2013-07-08 20:07:23 [INFO] Cane Growth Modifier: 100%
+2013-07-08 20:07:23 [INFO] Melon Growth Modifier: 100%
+2013-07-08 20:07:23 [INFO] Mushroom Growth Modifier: 100%
+2013-07-08 20:07:23 [INFO] Pumpkin Growth Modifier: 100%
+2013-07-08 20:07:23 [INFO] Sapling Growth Modifier: 100%
+2013-07-08 20:07:23 [INFO] Wheat Growth Modifier: 100%
+2013-07-08 20:07:23 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2013-07-08 20:07:23 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2013-07-08 20:07:23 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2013-07-08 20:07:23 [INFO] Random Lighting Updates: false
+2013-07-08 20:07:23 [INFO] View Distance: 15
+2013-07-08 20:07:23 [INFO] Chunks to Grow per Tick: 650
+2013-07-08 20:07:23 [INFO] Experience Merge Radius: 3.0
+2013-07-08 20:07:23 [INFO] Item Merge Radius: 2.5
+2013-07-08 20:07:23 [INFO] -------- World Settings For [Gate_the_end] --------
+2013-07-08 20:07:23 [INFO] Anti X-Ray: true
+2013-07-08 20:07:23 [INFO] 	Engine Mode: 1
+2013-07-08 20:07:23 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2013-07-08 20:07:23 [INFO] Mob Spawn Range: 4
+2013-07-08 20:07:23 [INFO] Cactus Growth Modifier: 100%
+2013-07-08 20:07:23 [INFO] Cane Growth Modifier: 100%
+2013-07-08 20:07:23 [INFO] Melon Growth Modifier: 100%
+2013-07-08 20:07:23 [INFO] Mushroom Growth Modifier: 100%
+2013-07-08 20:07:23 [INFO] Pumpkin Growth Modifier: 100%
+2013-07-08 20:07:23 [INFO] Sapling Growth Modifier: 100%
+2013-07-08 20:07:23 [INFO] Wheat Growth Modifier: 100%
+2013-07-08 20:07:23 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2013-07-08 20:07:23 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2013-07-08 20:07:23 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2013-07-08 20:07:23 [INFO] Random Lighting Updates: false
+2013-07-08 20:07:23 [INFO] View Distance: 15
+2013-07-08 20:07:23 [INFO] Chunks to Grow per Tick: 650
+2013-07-08 20:07:23 [INFO] Experience Merge Radius: 3.0
+2013-07-08 20:07:23 [INFO] Item Merge Radius: 2.5
+2013-07-08 20:07:23 [INFO] Preparing start region for level 0 (Seed: -6763850205428449256)
+2013-07-08 20:07:24 [INFO] Preparing start region for level 1 (Seed: 5692084478635644187)
+2013-07-08 20:07:25 [INFO] Preparing start region for level 2 (Seed: 5692084478635644187)
+2013-07-08 20:07:25 [INFO] [TuxTwoLib] Enabling TuxTwoLib v1.6.1-b2
+2013-07-08 20:07:26 [INFO] [SimpleBackup] Enabling SimpleBackup v1.5
+2013-07-08 20:07:26 [INFO] [SimpleBackup] Worlds [CraftWorld{name=Gate}, CraftWorld{name=Gate_nether}, CraftWorld{name=Gate_the_end}] scheduled for backup.
+2013-07-08 20:07:26 [INFO] [SimpleBackup] Backup scheduled starting in 1.0 hours, repeat interval: 1.0 hours
+2013-07-08 20:07:26 [INFO] [SimpleBackup] Enabled.
+2013-07-08 20:07:26 [INFO] [SimplePluginManager] Enabling SimplePluginManager v1.1
+2013-07-08 20:07:26 [INFO] [SimplePluginManager] by [monster010]
+2013-07-08 20:07:26 [INFO] [WorldEdit] Enabling WorldEdit v5.5.6
+2013-07-08 20:07:26 [INFO] WEPIF: Using the Bukkit Permissions API.
+2013-07-08 20:07:26 [INFO] [NoCraft] Enabling NoCraft v1.0
+2013-07-08 20:07:26 [INFO] [PermissionsEx] Enabling PermissionsEx v1.19.6
+2013-07-08 20:07:26 [INFO] [PermissionsEx] Superperms disabled. Check "config.yml" to enable.
+2013-07-08 20:07:26 [INFO] [PermissionsEx] v1.19.6 enabled
+2013-07-08 20:07:26 [INFO] WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+2013-07-08 20:07:26 [INFO] [Vault][Chat] PermissionsEx_Chat hooked.
+2013-07-08 20:07:26 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.5-b670
+2013-07-08 20:07:26 [INFO] [Multiverse-Core] [AllPay] - Version 13.0 - hooked into Essentials Economy for Multiverse-Core v2.5-b670
+2013-07-08 20:07:27 [INFO] -------- World Settings For [CTW2] --------
+2013-07-08 20:07:27 [INFO] Anti X-Ray: true
+2013-07-08 20:07:27 [INFO] 	Engine Mode: 1
+2013-07-08 20:07:27 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2013-07-08 20:07:27 [INFO] Mob Spawn Range: 4
+2013-07-08 20:07:27 [INFO] Cactus Growth Modifier: 100%
+2013-07-08 20:07:27 [INFO] Cane Growth Modifier: 100%
+2013-07-08 20:07:27 [INFO] Melon Growth Modifier: 100%
+2013-07-08 20:07:27 [INFO] Mushroom Growth Modifier: 100%
+2013-07-08 20:07:27 [INFO] Pumpkin Growth Modifier: 100%
+2013-07-08 20:07:27 [INFO] Sapling Growth Modifier: 100%
+2013-07-08 20:07:27 [INFO] Wheat Growth Modifier: 100%
+2013-07-08 20:07:27 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2013-07-08 20:07:27 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2013-07-08 20:07:27 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2013-07-08 20:07:27 [INFO] Random Lighting Updates: false
+2013-07-08 20:07:27 [INFO] View Distance: 15
+2013-07-08 20:07:27 [INFO] Chunks to Grow per Tick: 650
+2013-07-08 20:07:27 [INFO] Experience Merge Radius: 3.0
+2013-07-08 20:07:27 [INFO] Item Merge Radius: 2.5
+2013-07-08 20:07:27 [INFO] Preparing start region for level 3 (Seed: 1920585402)
+2013-07-08 20:07:27 [INFO] -------- World Settings For [Creative] --------
+2013-07-08 20:07:27 [INFO] Anti X-Ray: true
+2013-07-08 20:07:27 [INFO] 	Engine Mode: 1
+2013-07-08 20:07:27 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2013-07-08 20:07:27 [INFO] Mob Spawn Range: 4
+2013-07-08 20:07:27 [INFO] Cactus Growth Modifier: 100%
+2013-07-08 20:07:27 [INFO] Cane Growth Modifier: 100%
+2013-07-08 20:07:27 [INFO] Melon Growth Modifier: 100%
+2013-07-08 20:07:27 [INFO] Mushroom Growth Modifier: 100%
+2013-07-08 20:07:27 [INFO] Pumpkin Growth Modifier: 100%
+2013-07-08 20:07:27 [INFO] Sapling Growth Modifier: 100%
+2013-07-08 20:07:27 [INFO] Wheat Growth Modifier: 100%
+2013-07-08 20:07:27 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2013-07-08 20:07:27 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2013-07-08 20:07:27 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2013-07-08 20:07:27 [INFO] Random Lighting Updates: false
+2013-07-08 20:07:27 [INFO] View Distance: 15
+2013-07-08 20:07:27 [INFO] Chunks to Grow per Tick: 650
+2013-07-08 20:07:27 [INFO] Experience Merge Radius: 3.0
+2013-07-08 20:07:27 [INFO] Item Merge Radius: 2.5
+2013-07-08 20:07:27 [INFO] Preparing start region for level 4 (Seed: -1047402018725018594)
+2013-07-08 20:07:29 [INFO] -------- World Settings For [CTWH] --------
+2013-07-08 20:07:29 [INFO] Anti X-Ray: true
+2013-07-08 20:07:29 [INFO] 	Engine Mode: 1
+2013-07-08 20:07:29 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2013-07-08 20:07:29 [INFO] Mob Spawn Range: 4
+2013-07-08 20:07:29 [INFO] Cactus Growth Modifier: 100%
+2013-07-08 20:07:29 [INFO] Cane Growth Modifier: 100%
+2013-07-08 20:07:29 [INFO] Melon Growth Modifier: 100%
+2013-07-08 20:07:29 [INFO] Mushroom Growth Modifier: 100%
+2013-07-08 20:07:29 [INFO] Pumpkin Growth Modifier: 100%
+2013-07-08 20:07:29 [INFO] Sapling Growth Modifier: 100%
+2013-07-08 20:07:29 [INFO] Wheat Growth Modifier: 100%
+2013-07-08 20:07:29 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2013-07-08 20:07:29 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2013-07-08 20:07:29 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2013-07-08 20:07:29 [INFO] Random Lighting Updates: false
+2013-07-08 20:07:29 [INFO] View Distance: 15
+2013-07-08 20:07:29 [INFO] Chunks to Grow per Tick: 650
+2013-07-08 20:07:29 [INFO] Experience Merge Radius: 3.0
+2013-07-08 20:07:29 [INFO] Item Merge Radius: 2.5
+2013-07-08 20:07:29 [INFO] Preparing start region for level 5 (Seed: 1920585402)
+2013-07-08 20:07:30 [INFO] -------- World Settings For [CTW] --------
+2013-07-08 20:07:30 [INFO] Anti X-Ray: true
+2013-07-08 20:07:30 [INFO] 	Engine Mode: 1
+2013-07-08 20:07:30 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2013-07-08 20:07:30 [INFO] Mob Spawn Range: 4
+2013-07-08 20:07:30 [INFO] Cactus Growth Modifier: 100%
+2013-07-08 20:07:30 [INFO] Cane Growth Modifier: 100%
+2013-07-08 20:07:30 [INFO] Melon Growth Modifier: 100%
+2013-07-08 20:07:30 [INFO] Mushroom Growth Modifier: 100%
+2013-07-08 20:07:30 [INFO] Pumpkin Growth Modifier: 100%
+2013-07-08 20:07:30 [INFO] Sapling Growth Modifier: 100%
+2013-07-08 20:07:30 [INFO] Wheat Growth Modifier: 100%
+2013-07-08 20:07:30 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2013-07-08 20:07:30 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2013-07-08 20:07:30 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2013-07-08 20:07:30 [INFO] Random Lighting Updates: false
+2013-07-08 20:07:30 [INFO] View Distance: 15
+2013-07-08 20:07:30 [INFO] Chunks to Grow per Tick: 650
+2013-07-08 20:07:30 [INFO] Experience Merge Radius: 3.0
+2013-07-08 20:07:30 [INFO] Item Merge Radius: 2.5
+2013-07-08 20:07:30 [INFO] Preparing start region for level 6 (Seed: 1920585402)
+2013-07-08 20:07:31 [INFO] [Multiverse-Core] 7 - World(s) loaded.
+2013-07-08 20:07:32 [INFO] [Multiverse-Core] Version 2.5-b670 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+2013-07-08 20:07:32 [INFO] [WorldGuard] Enabling WorldGuard v5.7.5
+2013-07-08 20:07:32 [INFO] [WorldGuard] (Gate) TNT ignition is PERMITTED.
+2013-07-08 20:07:32 [INFO] [WorldGuard] (Gate) Lighters are PERMITTED.
+2013-07-08 20:07:32 [INFO] [WorldGuard] (Gate) Lava fire is blocked.
+2013-07-08 20:07:32 [INFO] [WorldGuard] (Gate) Fire spread is UNRESTRICTED.
+2013-07-08 20:07:32 [INFO] [WorldGuard] Loaded configuration for world 'Gate'
+2013-07-08 20:07:32 [INFO] [WorldGuard] (Gate_nether) TNT ignition is PERMITTED.
+2013-07-08 20:07:32 [INFO] [WorldGuard] (Gate_nether) Lighters are PERMITTED.
+2013-07-08 20:07:32 [INFO] [WorldGuard] (Gate_nether) Lava fire is blocked.
+2013-07-08 20:07:32 [INFO] [WorldGuard] (Gate_nether) Fire spread is UNRESTRICTED.
+2013-07-08 20:07:32 [INFO] [WorldGuard] Loaded configuration for world 'Gate_nether'
+2013-07-08 20:07:32 [INFO] [WorldGuard] (Gate_the_end) TNT ignition is PERMITTED.
+2013-07-08 20:07:32 [INFO] [WorldGuard] (Gate_the_end) Lighters are PERMITTED.
+2013-07-08 20:07:32 [INFO] [WorldGuard] (Gate_the_end) Lava fire is blocked.
+2013-07-08 20:07:32 [INFO] [WorldGuard] (Gate_the_end) Fire spread is UNRESTRICTED.
+2013-07-08 20:07:32 [INFO] [WorldGuard] Loaded configuration for world 'Gate_the_end'
+2013-07-08 20:07:32 [INFO] [WorldGuard] (CTW2) TNT ignition is PERMITTED.
+2013-07-08 20:07:32 [INFO] [WorldGuard] (CTW2) Lighters are PERMITTED.
+2013-07-08 20:07:32 [INFO] [WorldGuard] (CTW2) Lava fire is blocked.
+2013-07-08 20:07:32 [INFO] [WorldGuard] (CTW2) Fire spread is UNRESTRICTED.
+2013-07-08 20:07:32 [INFO] [WorldGuard] Loaded configuration for world 'CTW2'
+2013-07-08 20:07:32 [INFO] [WorldGuard] (Creative) TNT ignition is PERMITTED.
+2013-07-08 20:07:32 [INFO] [WorldGuard] (Creative) Lighters are PERMITTED.
+2013-07-08 20:07:32 [INFO] [WorldGuard] (Creative) Lava fire is blocked.
+2013-07-08 20:07:32 [INFO] [WorldGuard] (Creative) Fire spread is UNRESTRICTED.
+2013-07-08 20:07:32 [INFO] [WorldGuard] Loaded configuration for world 'Creative'
+2013-07-08 20:07:32 [INFO] [WorldGuard] (CTWH) TNT ignition is PERMITTED.
+2013-07-08 20:07:32 [INFO] [WorldGuard] (CTWH) Lighters are PERMITTED.
+2013-07-08 20:07:32 [INFO] [WorldGuard] (CTWH) Lava fire is blocked.
+2013-07-08 20:07:32 [INFO] [WorldGuard] (CTWH) Fire spread is UNRESTRICTED.
+2013-07-08 20:07:32 [INFO] [WorldGuard] Loaded configuration for world 'CTWH'
+2013-07-08 20:07:32 [INFO] [WorldGuard] (CTW) TNT ignition is PERMITTED.
+2013-07-08 20:07:32 [INFO] [WorldGuard] (CTW) Lighters are PERMITTED.
+2013-07-08 20:07:32 [INFO] [WorldGuard] (CTW) Lava fire is blocked.
+2013-07-08 20:07:32 [INFO] [WorldGuard] (CTW) Fire spread is UNRESTRICTED.
+2013-07-08 20:07:32 [INFO] [WorldGuard] Loaded configuration for world 'CTW'
+2013-07-08 20:07:32 [INFO] [WorldGuard] 0 regions loaded for 'Gate'
+2013-07-08 20:07:32 [INFO] [WorldGuard] 0 regions loaded for 'Gate_nether'
+2013-07-08 20:07:32 [INFO] [WorldGuard] 0 regions loaded for 'Gate_the_end'
+2013-07-08 20:07:32 [INFO] [WorldGuard] 0 regions loaded for 'CTW2'
+2013-07-08 20:07:32 [INFO] [WorldGuard] 0 regions loaded for 'Creative'
+2013-07-08 20:07:32 [INFO] [WorldGuard] 0 regions loaded for 'CTWH'
+2013-07-08 20:07:32 [INFO] [WorldGuard] 3 regions loaded for 'CTW'
+2013-07-08 20:07:32 [INFO] [AlwaysDay] Enabling AlwaysDay v2.0
+2013-07-08 20:07:32 [INFO] [AlwaysDay] AlwaysDay v2.0 is now enabled.
+2013-07-08 20:07:32 [INFO] [Sign Edit] Enabling Sign Edit v0.3
+2013-07-08 20:07:32 [INFO] [Sign Edit] Alls languages can be found here : http://dev.bukkit.org/server-mods/sign-edit/localization/.
+2013-07-08 20:07:32 [INFO] [JoinFull] Enabling JoinFull v1.1
+2013-07-08 20:07:32 [INFO] Joinfull Has Successfully ENABLED!
+2013-07-08 20:07:32 [INFO] [VoteCommand] Enabling VoteCommand v1.0
+2013-07-08 20:07:32 [INFO] Enabled VoteCommand.
+2013-07-08 20:07:32 [INFO] [OpenInv] Enabling OpenInv v2.0.5
+2013-07-08 20:07:32 [INFO] [AdvancedBans] Enabling AdvancedBans v0.81
+2013-07-08 20:07:32 [INFO] [NametagEdit] Enabling NametagEdit v1.8
+2013-07-08 20:07:32 [INFO] [NukeChat] Enabling NukeChat v13.4
+2013-07-08 20:07:32 [INFO] [NukeChat] Nuke's plugin is now enabled!
+2013-07-08 20:07:32 [INFO] [NukeChat] Loading Configuration file...
+2013-07-08 20:07:32 [INFO] [NukeChat] Loading nickname data...
+2013-07-08 20:07:32 [INFO] [NukeChat] Nickname data loaded.
+2013-07-08 20:07:32 [INFO] [NukeChat] Configuration file reloaded.
+2013-07-08 20:07:34 [INFO] [Fake Leave] Enabling Fake Leave v12.0
+2013-07-08 20:07:34 [INFO] Fake Leave Version 12.0 Me am better
+2013-07-08 20:07:34 [INFO] [Essentials] Enabling Essentials vPre2.11.1.2
+2013-07-08 20:07:35 [INFO] Bukkit version format changed. Version not checked.
+2013-07-08 20:07:35 [INFO] git-Spigot-1011 (MC: 1.6.1)
+2013-07-08 20:07:35 [INFO] 1.6.1-R0.1-SNAPSHOT
+2013-07-08 20:07:35 [INFO] Essentials: Using PermissionsEx based permissions.
+2013-07-08 20:07:35 [INFO] [EssentialsProtect] Enabling EssentialsProtect vPre2.11.1.2
+2013-07-08 20:07:35 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn vPre2.11.1.2
+2013-07-08 20:07:35 [INFO] [Multiverse-Inventories] Enabling Multiverse-Inventories v2.5-b357
+2013-07-08 20:07:36 [INFO] [Multiverse-Inventories] The following worlds for group 'Survival' are not loaded: Survival, Survival_the_end, Survival_nether
+2013-07-08 20:07:36 [INFO] [Multiverse-Inventories] The following worlds for group 'SurvivalOld' are not loaded: SurvivalOld, SurvivalOld_the_end, SurvivalOld_nether
+2013-07-08 20:07:36 [INFO] [Multiverse-Inventories 2.5-b357] enabled.
+2013-07-08 20:07:36 [INFO] [MagicSigns] Enabling MagicSigns v1.8.0
+2013-07-08 20:07:36 [INFO] [MagicSigns] Using Vault for economy.
+2013-07-08 20:07:36 [INFO] [MagicSigns] Using Vault for permissions.
+2013-07-08 20:07:36 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b665
+2013-07-08 20:07:36 [INFO] [Multiverse-NetherPortals] - Version 2.5-b665 Enabled - By Rigby and fernferret
+2013-07-08 20:07:37 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild vPre2.11.1.2
+2013-07-08 20:07:37 [INFO] [EssentialsChat] Enabling EssentialsChat vPre2.11.1.2
+2013-07-08 20:07:46 [INFO] Done (22.683s)! For help, type "help" or "?"
+2013-07-08 20:07:46 [INFO] Starting GS4 status listener
+2013-07-08 20:07:46 [INFO] Query running on 0.0.0.0:25568
+2013-07-08 20:07:46 [INFO] [NametagEdit] Hooked into PermissionsEx!
+2013-07-08 20:08:47 [INFO] Erisyuka[/192.168.1.2:62589] logged in with entity id 176 at ([Gate] 143.29002514505078, 104.6056549387134, 263.4531177829696)
+2013-07-08 20:08:47 [SEVERE] Could not pass event PlayerJoinEvent to NukeChat v13.4
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+	at org.bukkit.plugin.TimedRegisteredListener.callEvent(TimedRegisteredListener.java:30)
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:478)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:463)
+	at net.minecraft.server.v1_6_R1.PlayerList.c(PlayerList.java:206)
+	at net.minecraft.server.v1_6_R1.PlayerList.a(PlayerList.java:102)
+	at net.minecraft.server.v1_6_R1.PendingConnection.d(PendingConnection.java:135)
+	at net.minecraft.server.v1_6_R1.PendingConnection.c(PendingConnection.java:48)
+	at org.spigotmc.netty.NettyServerConnection.b(NettyServerConnection.java:132)
+	at net.minecraft.server.v1_6_R1.MinecraftServer.t(MinecraftServer.java:592)
+	at net.minecraft.server.v1_6_R1.DedicatedServer.t(DedicatedServer.java:239)
+	at net.minecraft.server.v1_6_R1.MinecraftServer.s(MinecraftServer.java:481)
+	at net.minecraft.server.v1_6_R1.MinecraftServer.run(MinecraftServer.java:413)
+	at net.minecraft.server.v1_6_R1.ThreadServerApplication.run(SourceFile:582)
+Caused by: java.util.regex.PatternSyntaxException: Unclosed character class near index 1
+[]
+ ^
+	at java.util.regex.Pattern.error(Pattern.java:1924)
+	at java.util.regex.Pattern.clazz(Pattern.java:2493)
+	at java.util.regex.Pattern.sequence(Pattern.java:2030)
+	at java.util.regex.Pattern.expr(Pattern.java:1964)
+	at java.util.regex.Pattern.compile(Pattern.java:1665)
+	at java.util.regex.Pattern.<init>(Pattern.java:1337)
+	at java.util.regex.Pattern.compile(Pattern.java:1022)
+	at java.lang.String.replaceAll(String.java:2162)
+	at com.chaoticunited.NukePublicMethods.setPlayerDisplayName(NukePublicMethods.java:264)
+	at com.chaoticunited.NukeJoinQuitEvent.onPlayerJoin(NukeJoinQuitEvent.java:34)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:425)
+	... 14 more
+2013-07-08 20:08:47 [INFO] Setting prefix/suffix for Erisyuka: �4, �0-�5sama (user)
+2013-07-08 20:08:54 [INFO] Erisyuka issued server command: /version
+2013-07-08 20:10:26 [INFO] Erisyuka lost connection: disconnect.quitting
+2013-07-08 20:10:26 [INFO] [0;35;22mPlayer Erisyuka has left the server![m
+2013-07-08 21:07:46 [INFO] [0;34;1m[SimpleBackup] Backup starting[m
+2013-07-08 21:07:47 [INFO] [SimpleBackup] Backing up ./Gate
+2013-07-08 21:07:55 [INFO] [SimpleBackup] Backing up ./Gate_nether
+2013-07-08 21:07:55 [INFO] [SimpleBackup] Backing up ./Gate_the_end
+2013-07-08 21:07:55 [INFO] [SimpleBackup] Backing up ./CTW2
+2013-07-08 21:07:57 [INFO] [SimpleBackup] Backing up ./Creative
+2013-07-08 21:07:58 [INFO] [SimpleBackup] Backing up ./CTWH
+2013-07-08 21:08:01 [INFO] [SimpleBackup] Backing up ./CTW
+2013-07-08 21:08:05 [INFO] [0;34;1m[SimpleBackup] Backup completed[m
+2013-07-08 22:07:47 [INFO] [SimpleBackup] Skipping backup (no one was online)
+2013-07-08 22:33:58 [INFO] Disconnecting Erisyuka [/127.0.0.1:38156]: Outdated server!
+2013-07-08 23:07:49 [INFO] [SimpleBackup] Skipping backup (no one was online)
+2013-07-08 23:40:19 [INFO] CONSOLE: Stopping the server..[m
+2013-07-08 23:40:19 [INFO] Stopping server
+2013-07-08 23:40:19 [INFO] [EssentialsChat] Disabling EssentialsChat vPre2.11.1.2
+2013-07-08 23:40:19 [INFO] [EssentialsAntiBuild] Disabling EssentialsAntiBuild vPre2.11.1.2
+2013-07-08 23:40:19 [INFO] [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.5-b665
+2013-07-08 23:40:19 [INFO] [Multiverse-NetherPortals] - Disabled
+2013-07-08 23:40:19 [INFO] [MagicSigns] Disabling MagicSigns v1.8.0
+2013-07-08 23:40:19 [INFO] [Multiverse-Inventories] Disabling Multiverse-Inventories v2.5-b357
+2013-07-08 23:40:19 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn vPre2.11.1.2
+2013-07-08 23:40:19 [INFO] [EssentialsProtect] Disabling EssentialsProtect vPre2.11.1.2
+2013-07-08 23:40:19 [INFO] [Essentials] Disabling Essentials vPre2.11.1.2
+2013-07-08 23:40:19 [INFO] [Vault][Economy] Essentials Economy unhooked.
+2013-07-08 23:40:19 [INFO] [Fake Leave] Disabling Fake Leave v12.0
+2013-07-08 23:40:19 [INFO] Fake Leaveon nos it broke
+2013-07-08 23:40:19 [INFO] [NukeChat] Disabling NukeChat v13.4
+2013-07-08 23:40:19 [INFO] [NukeChat] Nuke's plugin is now disabled!
+2013-07-08 23:40:19 [INFO] [NametagEdit] Disabling NametagEdit v1.8
+2013-07-08 23:40:19 [INFO] [AdvancedBans] Disabling AdvancedBans v0.81
+2013-07-08 23:40:19 [INFO] AdvancedBans version 0.81 is disabled!
+2013-07-08 23:40:19 [INFO] [OpenInv] Disabling OpenInv v2.0.5
+2013-07-08 23:40:19 [INFO] [VoteCommand] Disabling VoteCommand v1.0
+2013-07-08 23:40:19 [INFO] Disabled VoteCommand.
+2013-07-08 23:40:19 [INFO] [JoinFull] Disabling JoinFull v1.1
+2013-07-08 23:40:19 [INFO] Joinfull Has Successfully DISABLED!
+2013-07-08 23:40:19 [INFO] [Sign Edit] Disabling Sign Edit v0.3
+2013-07-08 23:40:19 [INFO] [AlwaysDay] Disabling AlwaysDay v2.0
+2013-07-08 23:40:19 [INFO] [AlwaysDay] AlwaysDay v2.0 is now disabled.
+2013-07-08 23:40:19 [INFO] [WorldGuard] Disabling WorldGuard v5.7.5
+2013-07-08 23:40:19 [INFO] [Multiverse-Core] Disabling Multiverse-Core v2.5-b670
+2013-07-08 23:40:19 [INFO] [PermissionsEx] Disabling PermissionsEx v1.19.6
+2013-07-08 23:40:19 [INFO] WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+2013-07-08 23:40:19 [INFO] [Vault][Permission] PermissionsEx un-hooked.
+2013-07-08 23:40:19 [INFO] [Vault][Chat] PermissionsEx_Chat un-hooked.
+2013-07-08 23:40:19 [INFO] Permissions file successfully reloaded
+2013-07-08 23:40:19 [INFO] [PermissionsEx] v1.19.6 disabled successfully.
+2013-07-08 23:40:19 [INFO] [Vault] Disabling Vault v1.2.25-b320
+2013-07-08 23:40:19 [INFO] [NoCraft] Disabling NoCraft v1.0
+2013-07-08 23:40:19 [INFO] [ServerInfoEditor] Disabling ServerInfoEditor v1.0
+2013-07-08 23:40:19 [INFO] [ServerInfoEditor] ServerInfoEditor Has Been disabled!
+2013-07-08 23:40:19 [INFO] [WorldEdit] Disabling WorldEdit v5.5.6
+2013-07-08 23:40:19 [INFO] [SimplePluginManager] Disabling SimplePluginManager v1.1
+2013-07-08 23:40:19 [INFO] [SimpleBackup] Disabling SimpleBackup v1.5
+2013-07-08 23:40:19 [INFO] [SimpleBackup] Disabled SimpleBackup
+2013-07-08 23:40:19 [INFO] [TuxTwoLib] Disabling TuxTwoLib v1.6.1-b2
+2013-07-08 23:40:19 [INFO] Saving players
+2013-07-08 23:40:19 [INFO] Saving worlds
+2013-07-08 23:40:19 [INFO] Saving chunks for level 'Gate'/Overworld
+2013-07-08 23:40:19 [INFO] Saving chunks for level 'Gate_nether'/Nether
+2013-07-08 23:40:19 [INFO] Saving chunks for level 'Gate_the_end'/The End
+2013-07-08 23:40:19 [INFO] Saving chunks for level 'CTW2'/Overworld
+2013-07-08 23:40:19 [INFO] Saving chunks for level 'Creative'/Overworld
+2013-07-08 23:40:20 [INFO] Saving chunks for level 'CTWH'/Overworld
+2013-07-08 23:40:20 [INFO] Saving chunks for level 'CTW'/Overworld
+2013-07-08 23:40:20 [INFO] Stopping server
+2013-07-08 23:40:20 [INFO] Saving players
+2013-07-08 23:40:20 [INFO] Saving worlds
+2013-07-08 23:40:20 [INFO] Saving chunks for level 'Gate'/Overworld
+2013-07-08 23:40:20 [INFO] Saving chunks for level 'Gate_nether'/Nether
+2013-07-08 23:40:20 [INFO] Saving chunks for level 'Gate_the_end'/The End
